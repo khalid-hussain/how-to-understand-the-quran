@@ -1,3 +1,5 @@
+default: compile-macros
+
 compile-macros:
 	cat honorifics.pp quran-loc.pp paraCharStyles.pp misc.pp _modeChange.pp > _macros.pp
 
