@@ -1,4 +1,7 @@
 
+/* ===========
+honorifics.pp
+==============*/
 #mode standard tex
 
 \ifndef{HONORIFICS_ENG}

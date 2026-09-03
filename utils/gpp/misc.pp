@@ -1,4 +1,7 @@
 
+/* ====
+misc.pp
+=======*/
 #mode standard tex
 
 \ifdef{IBN}
@@ -11,10 +14,9 @@
 
 \define{\SC{term}}{[\term]{.smallcaps}}
 
-\mode{standard}{cpp}
-/* ======================
-        Translation related
-   ======================*/
+\mode{standard}{default}
+
+/* Translation Related */
 #mode standard tex
 
 \define{\trans{arabic}{english}}{
@@ -43,18 +45,3 @@
 \mode{standard}{cpp}
 
 #mode standard default
-
-\define{\trans{arabic}{english}}{
-
-\ifndef{FINAL}
-::: {custom-style="Arabic Source" dir="rtl"}
-\arabic
-:::
-
-::: {custom-style="English Target"}
-\english
-:::
-\else
-\english
-\endif
-}
