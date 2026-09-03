@@ -1,7 +1,8 @@
 
-/* ===========
+#mode standard cpp
+/* ===============
 honorifics.pp
-==============*/
+================== */
 #mode standard tex
 
 \ifndef{HONORIFICS_ENG}

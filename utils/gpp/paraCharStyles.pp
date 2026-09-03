@@ -1,7 +1,8 @@
 
-/* ==============
+#mode standard cpp
+/* ===============
 paraCharStyles.pp
-=================*/
+================== */
 #mode standard tex
 
 \define{\SC{term}}{[\term]{.smallcaps}}

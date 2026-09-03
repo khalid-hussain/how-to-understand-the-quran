@@ -1,7 +1,8 @@
 
-/* ====
+#mode standard cpp
+/* ===============
 misc.pp
-=======*/
+================== */
 #mode standard tex
 
 \ifdef{IBN}
@@ -14,8 +15,7 @@ misc.pp
 
 \define{\SC{term}}{[\term]{.smallcaps}}
 
-\mode{standard}{default}
-
+\mode{standard}{cpp}
 /* Translation Related */
 #mode standard tex
 
