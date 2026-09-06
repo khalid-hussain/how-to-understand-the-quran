@@ -115,9 +115,9 @@ blood itself. His recitation and contemplation should reach such a state that
 the Noble Quran becomes his closest companion and constant confidant.
 
 <!-- TODO ref muwafaqat Shatibi -->
-
+<!-- vol. 4, p. 691 -->
 Imam al-Shāṭibī \hon{\M_HIM}{\BODY} (d.790 AH) beautifully states in
-Al-Muwāfaqāt, \"Whoever desires to attain a true understanding of the religion
+_Al-Muwāfaqāt_, "Whoever desires to attain a true understanding of the religion
 must make the Quran his constant companion. His relationship with it should
 endure day and night. This attachment must be both intellectual and practical;
 he should not suffice with one to the exclusion of the other. Whoever does so

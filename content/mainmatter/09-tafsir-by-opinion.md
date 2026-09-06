@@ -32,7 +32,7 @@ and the principles of the Sharīʿah.
 Undoubtedly, it is ḥarām (unlawful) for anyone who is ignorant of these two
 sciences to undertake the interpretation of the Noble Quran.
 
-<!-- TODO ref Muwafaqaat -->
+<!-- TODO ref muwafaqat Shatibi -->
 Al-Shāṭibī \hon{\M_HIM}{\BODY} states in _al-Muwāfaqāt_, "Opinion (_raʾy_) is of
 two kinds. The first is an opinion that accords with the Book, the Sunnah, and
 the principles of the Arabic language. Such opinion cannot be disregarded or

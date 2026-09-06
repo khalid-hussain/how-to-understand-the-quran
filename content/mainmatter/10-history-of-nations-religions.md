@@ -27,7 +27,7 @@ If a person is unfamiliar with the historical circumstances surrounding the
 revelation of the Quran, he will be unable to place these verses in their proper
 context. Rather, there is every possibility that he may fall into error.
 
-<!-- TODO ref Muwafaqaat -->
+<!-- TODO ref muwafaqat Shatibi -->
 It is for this reason that Imām al-Shāṭibī \hon{\M_HIM}{\BODY} states in
 _al-Muwāfaqāt_, "Whoever wishes to understand the Noble Quran must possess
 knowledge of the circumstances of its revelation."
@@ -50,7 +50,7 @@ revelation, together with an understanding of the beliefs, customs, traditions,
 and social practices of the communities addressed by the Quran, is
 indispensable.
 
-<!-- TODO ref Muwafaqaat -->
+<!-- TODO ref muwafaqat Shatibi -->
 Accordingly, Imām al-Shāṭibī \hon{\M_HIM}{\BODY} also states, "A student's
 unfamiliarity with the customs and conventions of the Arabs sometimes leads him
 into such serious difficulties that the only way to resolve them is to remove

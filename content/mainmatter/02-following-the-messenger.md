@@ -52,7 +52,7 @@ replied, "By Allāh, we seek no substitute for the Quran. Rather, alongside the
 Quran, we seek the one who possessed the greatest understanding of it," meaning
 the Messenger of Allāh \hon{\PBUH}{\BODY}. (Jāmiʿ Bayān al-ʿIlm)
 
-<!-- TODO ref muwafaqaat -->
+<!-- TODO ref muwafaqat Shatibi -->
 
 Imam al-Shāṭibī \hon{\M_HIM}{\BODY} writes, "The Sunnah occupies the
 position of explanation and commentary with respect to the Book of Allāh."
