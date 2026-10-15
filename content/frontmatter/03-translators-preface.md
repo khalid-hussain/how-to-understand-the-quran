@@ -22,7 +22,7 @@ of a method.
 
 The Quran is not an ordinary text whose meanings can be fully grasped through
 vocabulary and translation alone. It has its own principles, terminology,
-context, sciences, and modes of expression. Its verses explain one another, its
+context, sciences, and modes of expression. Its _āyāt_ explain one another, its
 meanings are illuminated by the Sunnah of the Messenger of Allāh
 \hon{\PBUH}{\BODY}, and the understanding of the Companions \hon{\P_THM}{\BODY}
 and the generations that followed them forms an essential part of the
@@ -32,29 +32,29 @@ the Quran itself does not support.
 
 This is where the present work acquires its particular importance.
 
-*How To Study The Quran?: 12 Principles for Understanding the Quran* seeks to
-provide the sincere seeker with a methodology and blueprint for approaching the
-Quran. It does not merely encourage the reader to read the Quran, nor does it
-seek to replace the vast heritage of Tafsīr produced by the scholars of Islam.
-Rather, it explains how the student should approach the Book of Allāh, what
-qualities and foundations are required, which principles must be observed, and
-which intellectual and spiritual tools are necessary for deriving true benefit
-from it.
+This book _12 Principles to Understand the Quran_ seeks to provide the sincere
+seeker with a methodology and blueprint for approaching the Quran. It does not
+merely encourage the reader to read the Quran, nor does it seek to replace the
+vast heritage of Tafsīr produced by the scholars of Islam. Rather, it explains
+how the student should approach the Book of Allāh, what qualities and
+foundations are required, which principles must be observed, and which
+intellectual and spiritual tools are necessary for deriving true benefit from
+it.
 
 The work takes the reader through the essential foundations of Quranic
-understanding: recognising the greatness of the Quran, maintaining attachment to
+understanding: recognizing the greatness of the Quran, maintaining attachment to
 the Sunnah of the Messenger of Allāh \hon{\PBUH}{\BODY}, understanding the
-purposes of the Quran, determining the meanings of its words and verses, dealing
+purposes of the Quran, determining the meanings of its words and _āyāt_, dealing
 responsibly with transmitted reports, developing a sound command of the Arabic
 language, understanding the history of the nations and religions addressed by
-the Quran, and recognising and responding to objections raised against it.
+the Quran, and recognizing and responding to objections raised against it.
 
 These are not merely academic disciplines. They are safeguards for the seeker.
 They protect the reader from reducing the Quran to personal opinion, isolated
 quotations, passing impressions, or whatever interpretation happens to be
 popular at a particular time.
 
-The author, Shaykh Muḥammad Owais al-Nagrāmī al-Nadwī \hon{\M_HIM}{\BODY}, was
+The author, Shaykh Muhammad Owais al-Nagrāmī al-Nadwī \hon{\M_HIM}{\BODY}, was
 particularly qualified to undertake this task. A distinguished scholar, exegete,
 teacher, and Shaykh al-Tafsīr of Dār al-ʿUlūm Nadwat al-ʿUlamāʾ, Lucknow, he
 devoted his life to the teaching and dissemination of the Quran and Sunnah. He
@@ -70,7 +70,7 @@ increasingly difficult to obtain. Yet the scholarship of these men continued to
 benefit students and readers long after their passing.
 
 The idea for this translation initiative began with a request from my late
-grandmother, Sultana Fāṭima \hon{\M_HER}{\BODY}, the daughter of Shaykh Owais
+grandmother, Sultana Fatima \hon{\M_HER}{\BODY}, the daughter of Shaykh Owais
 al-Nagrāmī, who wished to see her father's works preserved and made accessible
 to a wider readership. Her request became the beginning of an undertaking that
 has since developed into a continuing effort to recover, translate, and
@@ -137,7 +137,7 @@ It does not promise a shortcut to understanding the Quran. Rather, it teaches
 the seeker how to begin the journey correctly.
 
 The ultimate purpose of studying the Quran is not merely to know what it says,
-but to allow it to reform what we are. Its verses should correct our beliefs,
+but to allow it to reform what we are. Its _āyāt_ should correct our beliefs,
 purify our hearts, shape our character, regulate our conduct, and direct our
 lives towards the pleasure of Allāh. Knowledge of the Quran must ultimately lead
 to a relationship with the Quran, and that relationship must ultimately lead to
@@ -152,25 +152,24 @@ Bilāl ʿAbd al-Ḥayy al-Ḥasanī al-Nadwī \hon{\H_HIM}{\BODY} and Shaykh Say
 facilitating its publication under the esteemed Academy of Islamic Research &
 Publications, housed within Dār al-ʿUlūm Nadwat al-ʿUlamāʾ, Lucknow. Since its
 establishment in 1959 under the supervision of Shaykh Sayyid Abū al-Ḥasan ʿAlī
-Ḥasanī al-Nadwī \hon{\M_HIM}{\BODY}, the Academy has served as a beacon of
+al-Ḥasanī al-Nadwī \hon{\M_HIM}{\BODY}, the Academy has served as a beacon of
 knowledge, scholarship, and guidance for Muslims across India and beyond. It is
-truly both an honour and a privilege to have this translation published under an
+truly both an honor and a privilege to have this translation published under an
 institution with such a rich and distinguished scholarly legacy.
 
-I would also like to extend my heartfelt gratitude to ʿAllāmah Shiblī Nuʿmānī
-Library and the entire department for all their help in bringing this
+I would also like to extend my heartfelt gratitude to the ʿAllāmah Shiblī
+Nuʿmānī Library and the entire department for all their help in bringing this
 publication to life. Last, but certainly not least, I thank my parents and my
 wife for their unending encouragement and steadfast presence throughout all my
-projects and endeavours. Their unwavering support has been my pillar of
-strength.
+projects and endeavors. Their unwavering support has been my pillar of strength.
 
-We ask Allāh to accept this meagre effort for His sake alone. We ask Allāh to
+We ask Allāh to accept this meager effort for His sake alone. We ask Allāh to
 grant us reunion with our Prophet \hon{\PBUH}{\BODY} at al-Kawthar and to
 protect us from being among those about whom the Prophet \hon{\PBUH}{\BODY}
-said, 'Allāh may support this religion through a wicked man.'
+said, “Allāh may support this religion through a wicked man.” _Āmīn_.
 
 ::: {custom-style="Ragged Right"}
-Moḥammad Zāhid Ibn Ṭāriq al-Nagrāmī al-Najdī\
+Mohammad Zahid ibn Tariq al-Nagrāmī al-Najdī\
 Selangor Dār al-Iḥsān, Malaysia\
-29 Ṣafar 1448 AH \| 12 August 2026
+29 Ṣafar 1448\SC{h} \| 12 August 2026
 :::

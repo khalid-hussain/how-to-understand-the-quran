@@ -25,7 +25,7 @@ in which one benefits from this treasure-house of guidance. In the same
 proportion, the meanings, objectives, and profound insights of this Wise Book
 will continue to unfold before the reader.
 
-Taqwā and purity, to whatever extent one is able to attain them, constitute the
+Taqwá and purity, to whatever extent one is able to attain them, constitute the
 primary and indispensable condition for understanding the Quran. A person whose
 life is wholly at variance with the Sharīʿah, and who knowingly immerses himself
 in sin and immorality, can never truly comprehend the Noble Quran, even were he
@@ -68,5 +68,5 @@ contributions to the service of the Quran.
 ::: {custom-style="Ragged Right"}
 Shaykh ʿAbd al-Mājid Daryābādī \hon{\M_HIM}{\BODY}\
 Daryābād, Barabanki, Uttar Pradesh, India\
-Friday, 9 Safar 1376 AH \| 14th September 1956
+Friday, 9 Safar 1376\SC{h} \| 14 September 1956
 :::
