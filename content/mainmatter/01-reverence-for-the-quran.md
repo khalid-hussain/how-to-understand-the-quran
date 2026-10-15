@@ -1,5 +1,5 @@
 
-# 1. Reverence for the Noble Quran
+# Reverence for the Noble Quran
 
 The first prerequisite for a true student of the Noble Quran, and for one who
 seeks to derive genuine benefit from it, is that his heart be filled with
@@ -24,13 +24,13 @@ establish its chain of transmission. Rather, it is also meant to proclaim its
 majesty and exalted status, for the greatness of speech is derived from the
 greatness of the One who speaks it.
 
-::: {custom-style="" dir="rtl" lang="ur"}
+::: {custom-style="Urdu Poetry" dir="rtl" lang="ur"}
 ہزار جان گرامی خدا بہ ایں نسبت
 
 کہ میری ذات سے اپنا پتہ دیا تو نے
 :::
 
-::: {custom-style=""}
+::: {custom-style="Urdu Poetry Translation"}
 | A thousand precious lives are worth sacrificing for this distinction,
 |    That You identified Yourself through me.
 :::
@@ -114,11 +114,19 @@ certainty regarding its majesty and truth that courses through his veins like
 blood itself. His recitation and contemplation should reach such a state that
 the Noble Quran becomes his closest companion and constant confidant.
 
-<!-- TODO ref muwafaqat Shatibi -->
-<!-- vol. 4, p. 691 -->
+<!-- OLD TRANSLATION
 Imam al-Shāṭibī \hon{\M_HIM}{\BODY} (d.790 AH) beautifully states in
 _Al-Muwāfaqāt_, "Whoever desires to attain a true understanding of the religion
 must make the Quran his constant companion. His relationship with it should
 endure day and night. This attachment must be both intellectual and practical;
 he should not suffice with one to the exclusion of the other. Whoever does so
-may hope, by the will of Allāh, to attain his objective." (Al-Muwāfaqāt)
+may hope, by the will of Allāh, to attain his objective." (Al-Muwāfaqāt) -->
+
+Imam al-Shāṭibī \hon{\M_HIM}{\BODY} (d.790 AH) beautifully states in
+_Al-Muwāfaqāt_, "...whoever seeks to gain a comprehensive understanding of the
+Sharīʿah, hopes to grasp its purposes, and aspires to join the ranks of those
+who truly understand it must necessarily make the Quran his constant companion
+and intimate friend. He must keep it with him throughout the days and nights,
+engaging with it both intellectually and practically, rather than confining
+himself to either one to the exclusion of the other. If he does so, he may well
+attain what he seeks, achieve his objective..."[-@@muwafaqat, vol. 4, p. 691]

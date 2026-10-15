@@ -1,5 +1,5 @@
 
-# 3. The Conditions for Benefiting from the Noble Quran
+# The Conditions for Benefiting from the Noble Quran
 
 To derive complete and sound benefit from the Noble Quran, it is essential that
 one possesses a genuine desire to benefit from it and an earnest longing in the
@@ -15,7 +15,12 @@ It is for this reason that Allāh Most High says,
 A guidance for those who are mindful of Allāh. (Sūrah al-Baqarah, Q2:2)
 \AYAH_END
 
-<!-- TODO ref missing -->
+<!-- Original text (Probably)
+یہاں تقویٰ سے مراد اس کے اصطلاحی معنی نہیں بلکہ لغوی معنی ہیں یعنی خوف اور کھٹک،
+تو آیت کے معنی یہ ہیں کہ جن لوگوں کے قلب میں کھٹک ہے اور فکر ہے اور قصد ہے اپنی
+اصلاح کا ان کو قرآن ہدایت کرتا ہے، باقی جو شخص اپنی اصلاح کا قصد ہی نہ کرے اس کا
+ذمہ دار وہ خود ہے، قرآن کا اس میں کیا نقص ہے۔
+-->
 
 Shaykh Muḥammad Qāsim Nānautawī \hon{\M_HIM}{\BODY} observed, "Here, _taqwá_ is
 not intended in its technical legal sense. Rather, its lexical meaning is
@@ -54,7 +59,8 @@ _kadhdhaba_ (he denied). Similarly, _ittaqā_ is contrasted with _istaghnā_.
 Because of this deliberate contrast, the meaning of _taqwá_ here must be the
 opposite of _istighnāʾ_. Since _istighnāʾ_ signifies self-sufficiency,
 indifference, and freedom from concern, _taqwá_ in this context signifies
-concern, earnestness, and inward apprehension.
+concern, earnestness, and inward apprehension.[@@malfuzat_thanwi, vol. 7, pp.
+275--6]
 
 Indeed, this is precisely the reality. In order to benefit from the Noble Quran,
 sincere seeking (_ṭalab ṣādiq_) is indispensable. Without it, this path cannot be
@@ -83,11 +89,9 @@ I shall turn away from My signs those who behave arrogantly in the land without
 right. (Sūrah al-Aʿrāf, Q7:146)
 \AYAH_END
 
-<!-- TODO ref Suyuti al-Itqan -->
-
 While commenting upon this verse, he narrates from Sufyān ibn ʿUyaynah
-\hon{\M_HIM}{\BODY}, "Such people are deprived of understanding the Quran."
-(Al-Itqān fī ʿUlūm al-Quran)
+\hon{\M_HIM}{\BODY}, "Such people are deprived of understanding the
+Quran."[-@@itqan_suyuti, p. 773]
 
 The following verse likewise points to this very principle:
 
@@ -100,14 +104,16 @@ Surely in this is a reminder for whoever has a heart, or listens attentively
 while being fully present. (Sūrah Qāf, Q50:37)
 \AYAH_END
 
-<!-- TODO ref Fawa2id Ibn al-Qayyim -->
+<!-- TODO review translation -->
 While commenting on this verse, al-Ḥāfiẓ Ibn al-Qayyim \hon{\M_HIM}{\BODY}
-writes, “For anything to produce its effect, four elements are necessary:
+writes,
 
-- There must be an effective cause.
-- There must be a suitable recipient capable of receiving the effect.
-- The necessary conditions for the effect must be present.
-- Any impediments that prevent the effect must be absent.”
+> For anything to produce its effect, four elements are necessary:
+
+> - There must be an effective cause.
+> - There must be a suitable recipient capable of receiving the effect.
+> - The necessary conditions for the effect must be present.
+> - Any impediments that prevent the effect must be absent.
 
 He continues,
 
@@ -149,4 +155,4 @@ He concludes by saying,
 > for receiving its effect, namely complete attentiveness, is fulfilled, and
 > when the obstacle, namely heedlessness and indifference, is absent, then, _in
 > shāʾ Allāh_, the intended objective, namely benefiting from the Quran, will
-> certainly be attained. (Al-Fawāʾid)
+> certainly be attained.[-@@fawa2id_ibnqayyim, pp. 3--4]

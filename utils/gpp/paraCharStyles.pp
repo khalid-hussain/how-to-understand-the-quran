@@ -15,6 +15,9 @@ paraCharStyles.pp
 
 
 \ifdef{WORD}
+
+\define{\ITA{term}}{[\term]{custom-style="In-text Arabic"}}
+
 \define{AYAH_AR_START}{::: {custom-style="quran-arabic" lang="ar" dir="rtl"}}
 \define{AYAH_AR_END}{:::}
 \define{AYAH_START}{::: {custom-style="quran-trans"}}

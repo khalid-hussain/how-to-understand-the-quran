@@ -6,7 +6,7 @@ honorifics.pp
 #mode standard tex
 
 \ifndef{HONORIFICS_ENG}
-\define{\hon{phrase}{char_style}}{[\phrase]{custom-style="\char_style" lang="ar" dir="rtl"}}
+\define{\hon{phrase}{char_style}}{[\phrase]{custom-style="\char_style" lang="ar" dir="rtl"}&#x200E;}
 \else
 \define{\hon{phrase}{char_style}}{[\phrase]{custom-style="\char_style"}}
 \endif
@@ -113,6 +113,9 @@ paraCharStyles.pp
 
 
 \ifdef{WORD}
+
+\define{\ITA{term}}{[\term]{custom-style="In-text Arabic"}}
+
 \define{AYAH_AR_START}{::: {custom-style="quran-arabic" lang="ar" dir="rtl"}}
 \define{AYAH_AR_END}{:::}
 \define{AYAH_START}{::: {custom-style="quran-trans"}}

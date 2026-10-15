@@ -1,11 +1,13 @@
 
 # Foreword to the original Urdu Edition {.unnumbered}
 
-::: {custom-style="Basmalah"}
-بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيم
+::: {custom-style="Basmalah" lang="ar" dir="rtl"}
+﷽
 :::
 
-In the Name of Allāh, the Most Compassionate, the Most Merciful
+::: {custom-style="Basmalah English"}
+In the Name of Allāh, the Most Compassionate, the Most Merciful.
+:::
 
 Even if the recitation of the Noble Quran is undertaken solely for the purpose
 of earning reward and blessing, while being limited to its outward recitation,
@@ -63,8 +65,8 @@ Although this book is concise, it is fully adequate for its intended subject. It
 represents a substantial and noteworthy addition to the list of his valuable
 contributions to the service of the Quran.
 
-::: {custom-style="Right Ragged"}
-Shaykh ʿAbd al-Mājid Daryābādī \hon{\M_HIM}{\BODY}
+::: {custom-style="Ragged Right"}
+Shaykh ʿAbd al-Mājid Daryābādī \hon{\M_HIM}{\BODY}\
 Daryābād, Barabanki, Uttar Pradesh, India\
 Friday, 9 Safar 1376 AH \| 14th September 1956
 :::

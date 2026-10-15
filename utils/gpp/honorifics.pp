@@ -6,7 +6,7 @@ honorifics.pp
 #mode standard tex
 
 \ifndef{HONORIFICS_ENG}
-\define{\hon{phrase}{char_style}}{[\phrase]{custom-style="\char_style" lang="ar" dir="rtl"}}
+\define{\hon{phrase}{char_style}}{[\phrase]{custom-style="\char_style" lang="ar" dir="rtl"}&#x200E;}
 \else
 \define{\hon{phrase}{char_style}}{[\phrase]{custom-style="\char_style"}}
 \endif

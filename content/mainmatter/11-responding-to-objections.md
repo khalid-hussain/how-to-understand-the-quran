@@ -1,5 +1,5 @@
 
-# 11. Responding to Objections
+# Responding to Objections
 
 Followers of other religions have also studied the Noble Quran. However, their
 objective has generally been to raise objections, or to exploit Quranic verses
@@ -30,24 +30,20 @@ the Abbasid period, this very expression became the centre of debate.
 The creed of Ahl al-Sunnah wa al-Jamāʿah is that the Speech of Allāh (Kalām
 Allāh) is uncreated.
 
-<!-- TODO ref Ibn al-Qayyim al-Jawab al-Sahih -->
-
 The Christians objected by arguing that if the Speech of Allāh is uncreated, and
 ʿĪsá \hon{\S_HIM}{\BODY} is described as the Word of Allāh, then ʿĪsá
-\hon{\S_HIM}{\BODY} must also be uncreated. (Al-Jawāb al-Ṣaḥīḥ li-man Baddala
-Dīn al-Masīḥ)
+\hon{\S_HIM}{\BODY} must also be uncreated.
 
 It appears that one of the reasons the Muʿtazilah insisted so strongly that the
 Speech of Allāh was created was to escape precisely this Christian objection.
 
-<!-- TODO check the ح in Jahmiyyah -->
-Ironically, the Christians used the title Kalimat Allāh to argue that ʿĪsá
+Ironically, the Christians used the title _Kalimat Allāh_ to argue that ʿĪsá
 \hon{\S_HIM}{\BODY} was uncreated, whereas the Jaḥmīyah employed the very same
 expression to argue that the Quran was created.
 
-Their reasoning was as follows: The Quran calls ʿĪsá \hon{\S_HIM}{\BODY} the
-Word of Allāh, yet ʿĪsá \hon{\S_HIM}{\BODY} is a created being. Therefore, the
-Speech of Allāh must also be created.
+Their reasoning was as follows: The Quran calls ʿĪsá \hon{\S_HIM}{\BODY}
+_Kalimat Allāh_ (The Word of Allāh), yet ʿĪsá \hon{\S_HIM}{\BODY} is a created
+being. Therefore, the Speech of Allāh must also be created.
 
 Imam Aḥmad ibn Ḥanbal \hon{\M_HIM}{\BODY} refuted both the Christian and the
 Jahmī arguments. He observed that numerous qualities attributed to ʿĪsá
@@ -58,16 +54,14 @@ drank. He was subject to the commands and prohibitions of Allāh. He was among
 the descendants of Prophet Nūḥ \hon{\S_HIM}{\BODY} and Prophet Ibrāhīm
 \hon{\S_HIM}{\BODY}.
 
-Can any of these attributes be ascribed to the Noble Quran?
+Can any of these attributes be ascribed to the Noble Quran? The conclusion,
+therefore, is that it is fundamentally unsound to draw an analogy between the
+Noble Quran and ʿĪsá \hon{\S_HIM}{\BODY}.
 
-The conclusion, therefore, is that it is fundamentally unsound to draw an
-analogy between the Noble Quran and ʿĪsá \hon{\S_HIM}{\BODY}.
-
-<!-- TODO ref Rad 3la Jahmiyyah -->
-As for the Quranic description of ʿĪsá \hon{\S_HIM}{\BODY} as Kalimat Allāh, its
-meaning is that he came into existence through Allāh's creative command, "Kun"
-("Be"), not that he is literally the Divine Word itself. (Al-Radd ʿalā
-al-Jahmiyyah)
+As for the Quranic description of ʿĪsá \hon{\S_HIM}{\BODY} as _Kalimat Allāh_,
+its meaning is that he came into existence through Allāh's creative command,
+"Kun" ("Be"), not that he is literally the Divine Word itself.[-@@jawabSahih,
+vol. 2, pp. 490--3]
 
 The reality of the matter is that after the Christians had lost the purity of
 their original religion, they sought to attract followers of other religions and
@@ -100,18 +94,16 @@ Indeed, even the original religion of ʿĪsá \hon{\S_HIM}{\BODY} is entirely fr
 from such beliefs.
 
 All the theological doctrines that Christians subsequently developed under the
-title of Kalimat Allāh were borrowed from the pagan philosophical traditions of
-Egypt and Greece, and are fundamentally incompatible with pure Tawḥīd.
+title of _Kalimat Allāh_ were borrowed from the pagan philosophical traditions
+of Egypt and Greece, and are fundamentally incompatible with pure Tawḥīd.
 
-## The Meaning of Kalimat Allāh in the Quran
-
-<!-- TODO ref Al-Jawāb al-Ṣaḥīḥ li-man Baddala Dīn al-Masīḥ -->
+## The Meaning of _Kalimat Allāh_ in the Quran
 
 It now remains to examine how the Noble Quran itself employs the word _kalimah_.
 In the Quran, the term _kalimah_ is applied to a complete statement or
-declaration. (Al-Jawāb al-Ṣaḥīḥ li-man Baddala Dīn al-Masīḥ)
+declaration.
 
-At times, it simply carries the meaning of a statement or utterance. Allāh says:
+At times, it simply carries the meaning of a statement or utterance. Allāh says,
 
 \AYAH_AR_START
 وَيُنذِرَ ٱلَّذِينَ قَالُواْ ٱتَّخَذَ ٱللَّهُ وَلَدٗا ٤ مَّا لَهُم بِهِۦ مِنۡ عِلۡمٖ وَلَا لِأٓبَآئِهِمۡۚ كَبُرَتۡ كَلِمَةٗ تَخۡرُجُ مِنۡ أَفۡوَٰهِهِمۡۚ إِن يَقُولُونَ إِلَّا كَذِبٗا ٥
@@ -327,11 +319,9 @@ This demonstrates that Kalimat Allāh refers to that very divine decree, while
 the _kalimat al-takwīn_ ("Be") is the expression by which Allāh brings that
 decree into effect.
 
-<!-- TODO ref Fawz Kabir -->
-
 Shāh Walī Allāh al-Dihlawī \hon{\M_HIM}{\BODY} likewise explains the _kalimat
 al-takwīn_ as Allāh's voluntary exercise of His will and power in bringing things
-into existence. (Al-Fawz al-Kabīr)
+into existence.[-@@fawz_kabir, p. 22]
 
 The essence of this discussion is that the Noble Quran does not describe Prophet
 ʿĪsá \hon{\S_HIM}{\BODY} as Kalimat Allāh because he is the Divine Attribute of

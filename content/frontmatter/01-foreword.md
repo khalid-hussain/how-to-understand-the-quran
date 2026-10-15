@@ -1,11 +1,13 @@
 
 # Foreword {.unnumbered}
 
-::: {custom-style="Basmalah"}
-بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيم
+::: {custom-style="Basmalah" lang="ar" dir="rtl"}
+﷽
 :::
 
-In the Name of Allāh, the Most Compassionate, the Most Merciful
+::: {custom-style="Basmalah English"}
+In the Name of Allāh, the Most Compassionate, the Most Merciful.
+:::
 
 Among the graduates of Nadwat al-ʿUlamāʾ who attained distinction in the
 sciences of the Quran, the esteemed Shaykh Muḥammad Owais al-Nagrāmī al-Nadwī
@@ -79,7 +81,7 @@ May Allāh Most High accept this effort, make it a means of benefit for its
 readers, and grant it lasting acceptance and benefit for generations to come.
 Āmīn.
 
-::: {custom-style="Right Ragged"}
+::: {custom-style="Ragged Right"}
 Shaykh Bilāl ʿAbd al-Ḥayy al-Ḥasanī al-Nadwī \hon{\H_HIM}{\BODY}\
 Chancellor, Dār al-ʿUlūm Nadwat al-ʿUlamāʾ, Lucknow\
 19 Shaʿbān 1447 AH \| 7th February 2026

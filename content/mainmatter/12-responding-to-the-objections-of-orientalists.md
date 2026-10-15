@@ -1,20 +1,26 @@
 
-# 12. A Response to the Objections of the Orientalists
+# A Response to the Objections of the Orientalists
 
 The Orientalists of Europe, whose scholarship has won widespread acclaim and
 whose research has overawed many minds, at times adopt such crude and uninformed
 approaches in their hostility towards Islam that even a person of only modest
 knowledge cannot help but be astonished.
 
+<!-- TODO REWRITE Britannica -->
+
 For example, the famous German Orientalist and scholar Theodor Nöldeke, whose
 scholarly poverty is reflected in his claim, Allāh forbid, that the Noble Quran
 is the composition of Prophet Muḥammad \hon{\PBUH}{\BODY}, wrote in his review
 of the Quran for the Encyclopaedia Britannica:
 
-> Muḥammad was familiar with Arabia, but whenever he refers to lands beyond
+<!-- > Muḥammad was familiar with Arabia, but whenever he refers to lands beyond
 > Arabia, his ignorance becomes evident. For example, he attributes the
 > fertility of Egypt, where rain is scarcely ever seen, to rainfall rather than
-> to the inundation of the Nile.
+> to the inundation of the Nile. -->
+
+> For instance, in his ignorance of everything out of Arabia, he makes the
+> fertility of Egypt---where rain is almost never seen and never missed---depend
+> on rain instead of inundations of the Nile.[-@@britannica, vol. 16, p. 600]
 
 The actual matter is as follows. When Prophet Yūsuf \hon{\S_HIM}{\BODY} was
 imprisoned, the king of Egypt saw a dream in which seven fat cows were devoured
@@ -57,26 +63,22 @@ is that after the famine there will come a year in which people will be granted
 relief and their hardship will come to an end. Whether this relief comes through
 rainfall or through the flooding of the Nile is not stated in the verse.
 
-<!-- TODO ref Ruh al-Ma2aani -->
-
-Imam al-Ālūsī \hon{\M_HIM}{\BODY} writes, "That is, they will receive rain, as
+Imam al-Ālūsī \hon{\M_HIM}{\BODY} writes, “That is, they will receive rain, as
 held by Ibn ʿAbbās \hon{\P_TWO}{\BODY}, Mujāhid \hon{\M_HIM}{\BODY}, and the
 majority, in which case it is derived from _ghayth_. It has also been said that
-it is derived from _ghawth_, meaning relief and deliverance. It is said, 'Allāh
-granted us relief (_aghāthanā Allāh_),' when He removes hardship from us." (Rūḥ
-al-Maʿānī)
+it is derived from _ghawth_, meaning relief and deliverance. It is said, ‘Allāh
+granted us relief (_aghāthanā Allāh_),’ when He removes hardship from
+us.”[-@@ruhMa3ani, vol. 6, p. 445]
 
-<!-- TODO ref Anwar al-Tanzil -->
 Imam al-Qāḍī al-Bayḍāwī \hon{\M_HIM}{\BODY} writes, "It may mean that rain will
 fall, if derived from _ghayth_, or that they will be relieved from famine, if
-derived from _ghawth_." (Anwār al-Tanzīl wa Asrār al-Taʾwīl)
+derived from _ghawth_."[-@@tafsirBaydawi, vol. 3, p. 177]
 
-<!-- TODO ref al-Jawāhir al-Ḥisān -->
 Similarly, Imam al-Thaʿlabī \hon{\M_HIM}{\BODY} states, "It is permissible that
 it be derived from _ghayth_, as held by Ibn ʿAbbās \hon{\P_TWO}{\BODY} and the
 majority of the exegetes, meaning that rain will fall. It is also permissible
 that it be derived from _ghawth_, meaning that Allāh will relieve them and
-remove their hardship." (Al-Jawāhir al-Ḥisān)
+remove their hardship."[-@@jawahirHisan, vol. 3, pp. 331--2]
 
 [Second,]{.smallcaps} even if the view of the majority of the exegetes is
 adopted, namely that the verse refers to rainfall, the Orientalist's claim that
@@ -85,18 +87,16 @@ Egypt receives no rain whatsoever is factually incorrect.
 Rain may indeed be scarce in Egypt, but to deny its occurrence altogether is
 contrary to reality.
 
-<!-- TODO Kitab al-Buldan -->
 Al-Yaʿqūbī states in _Kitāb al-Buldān_ that Egypt's coastal regions receive some
-rainfall.
+rainfall.[-@@buldan_ya3qubi, p. 178]
 
-<!-- TODO ref al-Ḥaḍārah al-Miṣriyyah -->
 _Al-Ḥaḍārah al-Miṣriyyah_ likewise states, "It is by no means correct to claim
-that the Nile Valley is entirely devoid of rainfall."
+that the Nile Valley is entirely devoid of rainfall."[-@@hadarah_misriyyah, p. 8]
 
-<!-- TODO ref Geography of the World -->
-Marsden and Oxford Smith's _Geography of the World_ states, "Rainfall here is
-very slight, amounting annually to approximately one inch in Cairo and eighteen
-inches in Alexandria, which lies on the Mediterranean coast."
+E. Marsden and T. Alford Smith's _Geography for Senior Classes_ states, “The
+climate of Egypt is hot and dry... The rainfall at Cairo is a little over 1
+inch, and even at Alexandria close to the sea it is only about 8
+inches.”[-@@geoSeniorClasses, p. 395]
 
 [Third,]{.smallcaps} the regions in which the Pharaohs resided were, in any
 case, areas where rainfall occurred.
@@ -105,16 +105,14 @@ It has already been established that Egypt's coastal regions and Cairo,
 situated along the Nile, receive rainfall. Historical records show that the
 Pharaohs generally resided at Memphis and ʿAyn Shams, both situated near Cairo.
 
-<!-- TODO ref Taqwim al-Buldan -->
 Abū al-Fidāʾ records in _Taqwīm al-Buldān_ that ʿAyn Shams was known as the City
-of Pharaoh and was located only half a stage from Cairo.
+of Pharaoh and was located only half a stage from Cairo.[-@@taqwim_buldan, p. 119]
 
-<!-- TODO ref Muʿjam al-Buldān -->
 Yāqūt al-Ḥamawī \hon{\M_HIM}{\BODY} (d.626 AH) writes in _Muʿjam al-Buldān_ that
 Memphis was Pharaoh's city. Referring to its ancient remains, he states that
 this was where Prophet Yūsuf \hon{\S_HIM}{\BODY} lived, where Pharaoh resided,
 and where Pharaoh's temple at ʿAyn Shams was situated. Present-day Fusṭāṭ lies
-between ʿAyn Shams and Memphis.
+between ʿAyn Shams and Memphis.[-@@tahdithMu3jamBuldan, p. 642]
 
 Originally, ʿAyn Shams was a temple visited by pilgrims, around which a
 settlement gradually developed into a city. In reality, it formed part of the
@@ -128,12 +126,11 @@ Even today, ʿAyn Shams survives as a suburb of Cairo. Muslims refer to it as
 ʿAwn, while Europeans have called it Heliopolis. It is now a developed district
 with large buildings and fine hotels.
 
-<!-- TODO ref Safarnamah Misr -->
 Qāḍī Walī Muḥammad writes in his _Safarnāmah Miṣr_ (1924), "It is said that this
 place had the honor of being the residence of Mūsá \hon{\S_HIM}{\BODY}.
 Pharaoh's palace was also located here, and it was here that Zulaykhā lived in
 the residence of the Chief Minister of Egypt. There also stood a Temple of the
-Sun, where sun worship was practiced."
+Sun, where sun worship was practiced."[-@@safar_namah_misr, p. 114]
 
 These details establish that the Pharaohs lived near Cairo, where rainfall does
 occur. Consequently, if Yūsuf \hon{\S_HIM}{\BODY} mentioned rainfall in his
@@ -143,23 +140,42 @@ it.
 [Fourth,]{.smallcaps} the Orientalist attributes Egypt's fertility solely to the
 Nile, but overlooks the fact that the Nile itself is sustained by rainfall.
 
-<!-- TODO ref al-Buldan -->
 Al-Yaʿqūbī states that Egypt and its villages depend upon the Nile, and that the
 increase in the Nile's waters results from the rainfall occurring during the
-summer months. (Kitāb al-Buldān)
+summer months.[-@@tahdithMu3jamBuldan, p. 178]
 
 _Al-Ḥaḍārah al-Miṣriyyah_ likewise observes, "It has now become entirely clear
 that the Nile's annual flooding is the result of the rains that fall in Central
 Africa during March, where the Nile originates. It is this water that flows into
-Egypt, bringing with it fertility and vegetation."
+Egypt, bringing with it fertility and vegetation."[-@@hadarah_misriyyah, p. 8]
 
-<!-- TODO ref Tasir al-Manar -->
+<!-- TODO EDIT Tafsir al-Manar quote -->
+
+<!-- CHATGPT'd translation
+All the water that sustains plant and animal life across the earth comes from
+rainfall, and Egypt is no exception. It is therefore incorrect to say that
+Egypt’s life depends on the waters of the Nile rather than on rain. The waters
+of rivers and springs that emerge from the earth all ultimately come from
+rainfall: rainwater permeates the earth, accumulates, and then flows forth.
+Allah Most High has reminded us of this blessing and directed our attention to
+the sign contained in it when He says: “He sends down water from the sky and
+channels it into springs throughout the earth, then brings forth with it crops
+of varying colors” (39:21).
+
+The lakes that constitute the sources of the Nile are themselves supplied by
+rainwater, and the rise in the Nile during the flood season is caused by the
+rainfall that replenishes these sources and feeds the river itself along its
+course through the lands of Sudan. The extent of the flooding—whether abundant
+or scant—is directly dependent on the amount of annual rainfall there.
+-->
+
 The eminent modern scholar Sayyid Rashīd Riḍā \hon{\M_HIM}{\BODY}, who spent
-most of his life in Egypt, writes in his _Tafsīr al-Manār_ (2:65), "Egypt cannot
-be regarded as independent of rainfall. It is often said that Egypt's life
-depends not upon rain but upon the Nile. Yet the Nile itself owes its waters to
+most of his life in Egypt, writes in his _Tafsīr al-Manār_, "Egypt cannot be
+regarded as independent of rainfall. It is often said that Egypt's life depends
+not upon rain but upon the Nile. Yet the Nile itself owes its waters to
 rainfall. The abundance or scarcity of the Nile is directly dependent upon the
-rainfall in the regions from which it draws its waters."
+rainfall in the regions from which it draws its waters."[@tafsirManar, vol. 2,
+pp. 49--50]
 
 In this connection, he cites the _āyah_,
 
@@ -204,16 +220,14 @@ crops from which their cattle and they themselves eat? Will they not then see?
 (Sūrah al-Sajdah, Q32:27)
 \AYAH_END
 
-<!-- TODO ref Tabari -->
 Imam Ibn Jarīr al-Ṭabarī \hon{\M_HIM}{\BODY} narrates from ʿAbdullāh ibn ʿAbbās
 \hon{\P_TWO}{\BODY} regarding \ITA{الأرض الجرز}, "_Al-Jarz_ refers to land that
 receives only such a small amount of rain that it is of no real benefit, except
-for the water that reaches it through flood channels." (Jāmiʿ al-Bayān fī Taʾwīl
-al-Quran)
+for the water that reaches it through flood channels."[-@@tafsir_tabari, vol. 18,
+p. 642]
 
-<!-- TODO ref Ḥusn al-Muḥāḍarah -->
-Al-Ḥāfiẓ al-Suyūṭī \hon{\M_HIM}{\BODY} writes, "According to one group of
-scholars, _al-arḍ al-jarz_ refers to the land of Egypt." (Ḥusn al-Muḥāḍarah)
+Al-Ḥāfiẓ al-Suyūṭī \hon{\M_HIM}{\BODY} writes, "According to a group of
+scholars, _al-arḍ al-jarz_ refers to the land of Egypt."[-@@husnMuhadarah, p. 9]
 
 <!-- TODO Tafsir Ibn Kathīr -->
 Likewise, Imam Ibn Kathīr \hon{\M_HIM}{\BODY} states in his Tafsīr, "The
@@ -224,10 +238,23 @@ is such that if it received rainfall sufficient for its needs, its buildings
 would collapse. Therefore, Allāh sends to it, instead of local rainfall, the
 waters that fall in the lands of Abyssinia." (Tafsīr Ibn Kathīr)
 
-<!-- TODO ref Al-Risālah al-ʿArshiyyah and in Minhāj al-Sunnah -->
 The same explanation is given by Shaykh al-Islām Ibn Taymiyyah
-\hon{\M_HIM}{\BODY} in _al-Risālah al-ʿArshiyyah_ and in _Minhāj al-Sunnah_.
+\hon{\M_HIM}{\BODY} in _al-Risālah al-ʿArshīyah_ and in _Minhāj al-Sunnah_.
 
+<!--
+فَالْأَرْضُ الْجُرُزُ لَا تُمْطِرُ مَا يَكْفِيهَا، كَأَرْضِ مِصْرَ: لَوْ أَمْطَرَتِ الْمَطَرَ الْمُعْتَادَ لَمْ يَكْفِهَا ; فَإِنَّهَا أَرْضٌ إِبْلِيزٌ. وَإِنْ أَمْطَرَتْ كَثِيرًا مِثْلَ مَطَرِ شَهْرٍ خَرُبَتِ الْمَسَاكِنُ، فَكَانَ مِنْ حِكْمَةِ الْبَارِي وَرَحْمَتِهِ أَنْ أَمْطَرَ مَطَرًا أَرْضًا بَعِيدَةً، ثُمَّ سَاقَ ذَلِكَ الْمَاءَ إِلَى أَرْضِ مِصْرَ.
+-->
+
+In _Minhāj al-Sunnah_, he writes, “Barren lands do not receive enough rainfall
+to meet their needs, as is the case with the land of Egypt. Even if it received
+the usual amount of rainfall, that would not be sufficient, for its soil is
+exceptionally dry and barren (_iblīz_). If, however, it were to receive heavy
+rainfall---such as the amount that might fall in a single month---its dwellings
+would be destroyed. Thus, it is part of the wisdom and mercy of the Creator that
+He causes rain to fall upon distant lands and then conveys that water to the
+land of Egypt.”[-@@minhajSunnah, vol. 5, p. 444]
+
+<!-- OLD TRANSLATION
 In _Minhāj al-Sunnah_, he writes, "Barren land does not receive sufficient
 rainfall for its needs, as is the case with Egypt. Ordinary rainfall would not
 suffice for it, since its land is clay-like. If it were to receive heavy
@@ -236,6 +263,7 @@ dwellings would be destroyed. Therefore, it is from the wisdom and mercy of the
 Creator that He sends rain upon distant lands and then directs that water to
 Egypt. This verse is evidence of the Creator's knowledge, His power, His will,
 and His wisdom."
+-->
 
 How remarkable that the very point which, according to Nöldeke, allegedly
 demonstrates, Allāh forbid, the ignorance of the author of the Quran, is
@@ -251,79 +279,86 @@ came from Canaan to Egypt for this purpose.
 Indeed, people from many lands besides Canaan travelled to Egypt in search of
 grain.
 
-<!-- TODO ref Historical Geography of Arabia -->
 Historical sources further establish that the effects of this famine reached as
 far south as Yemen in Arabia. Thus, Reverend Forster, in his _Historical
 Geography of Arabia_ (2:103), quoting Imam Ibn Hishām \hon{\M_HIM}{\BODY},
-records that during a flood in Yemen a grave was uncovered containing the body
-of a woman.
-
-Around her neck were seven pearl necklaces. Bracelets adorned both her arms and
-ankles, each finger bore a precious ring, and beside her lay a chest filled with
-gold and valuables. An inscription was also found in the grave, after an opening
-invocation, followed by five verses, reproduced below.
+records that during a flood in Yemen, a grave was uncovered containing the body
+of a woman. Around her neck were seven pearl necklaces. Bracelets adorned both
+her arms and ankles, each finger bore a precious ring, and beside her lay a
+chest filled with gold and valuables. An inscription was also found in the
+grave, after an opening invocation, followed by five verses, reproduced below.
 
 \AR_START
-باسمك اللهم إله حمير
+بِاسْمِكَ اللَّهُمَّ إِلَهَ حِمْيَرَ،
 \AR_END
 
 \EN_START
-In Your Name, O Allāh, God of Ḥimyar.
+In thy name, O God, the God of Hamyar.
+<!-- In Your Name, O Allāh, God of Ḥimyar. -->
 \EN_END
 
 
 \AR_START
-أنا تاحة بنت ذي شقر بعثت مائرنا إلى يوسف فأبطأ علينا، فبعثت لاذتي
+أَنَا تَاجَةُ بِنْتُ ذِي شُفْرٍ، بَعَثْتُ مَائِرَنَا إِلَى يُوسُفَ، فَأَبْطَأَ عَلَيْنَا، فَبَعَثْتُ لَاذَتِي...
 \AR_END
 
 \EN_START
-I am Tāḥah, daughter of Dhī Shaqr. I sent my royal steward to Yūsuf, but his
-return was delayed, so I dispatched my trusted attendants.
+I Tajah, the daughter of Dzu Shefar, sent my steward to Joseph. And he delaying
+to return to me; I sent my handmaid,
+<!-- I am Tāḥah, daughter of Dhī Shaqr. I sent my royal steward to Yūsuf, but his
+return was delayed, so I dispatched my trusted attendants. -->
 \EN_END
 
 
 \AR_START
-بمد من ورق، لتأتيني بمد من طحين، فلم تجده، فبعثت بمد من ذهب
+...بِمُدٍّ مِنْ وَرِقٍ لتَأْتِينِي بِمُدٍّ مِنْ طَحِينٍ، فَلَمْ تَجِدْهُ، فَبَعَثْتُ بِمُدٍّ مِنْ ذَهَبٍ،
 \AR_END
 
 \EN_START
-I sent silver equal in measure to obtain a measure of flour. When none could be
-found, I sent gold instead.
+With a measure of silver, to bring me back a measure of flour:
+And not being able to procure it, I sent her with a measure of gold:
+<!-- I sent silver equal in measure to obtain a measure of flour. When none could be
+found, I sent gold instead. -->
 \EN_END
 
 
 \AR_START
-فلم تجده، فبعثت بمد من بحري، فلم تجده، فأمرت به فطحن
+فَلَمْ تَجِدْهُ، فَبَعَثْتُ بِمُدٍّ مِنْ بَحْرِيٍّ، فَلَمْ تَجِدْهُ، فَأَمَرْتُ بِهِ، فَطُحِنَ،
 \AR_END
 
 \EN_START
-When even that failed, I sent pearls. When flour could still not be obtained, I
-ordered the pearls to be ground.
+And not being able to procure it, I sent her with a measure of pearls:
+And not being able to procure it, I commanded them to be ground:
+<!-- When even that failed, I sent pearls. When flour could still not be obtained, I
+ordered the pearls to be ground. -->
 \EN_END
 
 
 \AR_START
-فلم أنتفع به، فاقتفلت، فمن سمع فليرحمني
+فَلَمْ أَنْتَفِعْ بِهِ، فَاقْتُفِلْتُ، فَمَنْ سَمِعَ بِي، فَلْيَرْحَمْنِي،
 \AR_END
 
 \EN_START
-They proved of no benefit. Thus I have been buried here. Whoever comes upon my
-story should have mercy upon me.
+And finding no profit in them, I am shut up here.
+Whosoever may hear of me, let them commiserate me.
+<!-- They proved of no benefit. Thus I have been buried here. Whoever comes upon my
+story should have mercy upon me. -->
 \EN_END
 
 
 \AR_START
-وأية امرأة لبست حليتي ماتت، فلا حليتي إلا ميتتي
+وَأَيَّةُ اِمْرَأَةٍ لَبِسَتْ حَلْيًا مِنْ حُلِيِّي، فَلَا مَاتَتْ إِلَّا مِيتَتِي.
 \AR_END
 
 \EN_START
-If any woman covets and wears these ornaments, may she meet the same fate that
-befell me.
+And should any woman adorn herself with an omament
+From my ornaments, may she die by no other than my death.
+<!-- If any woman covets and wears these ornaments, may she meet the same fate that
+befell me. -->
 \EN_END
-
 
 This inscription demonstrates that the effects of the famine certainly extended
-as far as Yemen.
+as far as Yemen.[-@@histgeoArabia, vol. 2, pp. 101--3]
 
 The Torah, moreover, explicitly affirms that the famine was worldwide:
 
@@ -400,9 +435,8 @@ scholars such as Nöldeke, namely that Egypt itself is not a land characterized
 by rainfall.
 
 By contrast, the commands regarding cultivation and storage concern only the
-Egyptians, and therefore remain in the direct second-person form.
-
-And Allāh knows best what is correct.
+Egyptians, and therefore remain in the direct second-person form. And Allāh
+knows best what is correct.
 
 [Note:]{.smallcaps} _Iltifāt_ is a recognised rhetorical device in the sciences of
 Maʿānī and Bayān. It refers to a deliberate shift within a discourse from one

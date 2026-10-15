@@ -1,5 +1,5 @@
 
-# 8. A Sound Grasp of the Arabic Language
+# A Sound Grasp of the Arabic Language
 
 Since the Noble Quran was revealed in Arabic, there is no alternative for
 anyone seeking to benefit from it but to acquire familiarity with the Arabic
@@ -15,7 +15,7 @@ language so that the meanings of the Noble Quran may be understood correctly.
 
 In this regard, the following observations deserve particular attention.
 
-## 1. Lexical Works on the Vocabulary of the Quran
+## Lexical Works on the Vocabulary of the Quran
 
 In explaining the vocabulary of the Noble Quran, scholars have adopted two
 principal approaches.
@@ -32,7 +32,7 @@ made the greatest contribution were Ibn Durayd \hon{\M_HIM}{\BODY} and his
 student al-ʿAzīzī \hon{\M_HIM}{\BODY}. Teacher and student together are said to
 have spent fifteen years compiling their work on _Gharīb al-Qurʾān_.
 
-## 2. _Wujūh_ and _Naẓāʾir_
+## _Wujūh_ and _Naẓāʾir_
 
 Many words in the Quran occur in multiple places while carrying different
 meanings. The scholars of rhetoric refer to such words as _mushtarak_, whereas the
@@ -49,7 +49,7 @@ For this reason, Muslim scholars authored independent works devoted to this
 subject. Among them is al-Ḥāfiẓ Jalāl al-Dīn al-Suyūṭī's \hon{\M_HIM}{\BODY}
 treatise _Maʿtarak al-Aqrān fī Mushtarak al-Qurʾān_.
 
-## 3. The Importance of _Iʿrāb_
+## The Importance of _Iʿrāb_
 
 Arabic expresses the grammatical relationships between words through _iʿrāb_,
 namely the inflectional vowel endings.
@@ -65,7 +65,7 @@ The scholars of Islam recognised this need and produced numerous works devoted
 exclusively to the grammatical analysis of the Noble Quran, examining each
 _sūrah_ _āyah_ by _āyah_.
 
-## 4. The Rhetorical Structure of Quranic Expression
+## The Rhetorical Structure of Quranic Expression
 
 The student must also understand the methods by which the Noble Quran conveys
 its meanings, together with the functions of the various particles,
@@ -98,16 +98,14 @@ At first glance, one might object that the verse addresses the Jews living
 during the Prophet's \hon{\PBUH}{\BODY} lifetime, although the event occurred to
 their forefathers.
 
-<!-- TODO ref Ruh al-Ma2aani -->
-
 Various explanations have been offered. Al-Ālūsī \hon{\M_HIM}{\BODY}, however,
 points out in _Rūḥ al-Maʿānī_ that had the verse said \ITA{لَكُم}, it would have
 referred directly to the contemporaneous Jews. Instead, the use of the
 preposition \ITA{ب} in \ITA{بِكُم} carries the sense that the sea was parted on
 behalf of their forefathers. Thus, the subtle choice of a single particle
-removes the apparent difficulty. (Rūḥ al-Maʿānī)
+removes the apparent difficulty.[-@@ruhMa3ani, vol. 1, p. 256]
 
-## 5. Literal and Figurative Expression
+## Literal and Figurative Expression
 
 When a word is used in the meaning for which it was originally coined, it is
 called _ḥaqīqah_ (literal usage). When it is employed to convey a related but
@@ -123,7 +121,7 @@ al-ʿUlamāʾ al-ʿIzz ibn ʿAbd al-Salām \hon{\M_HIM}{\BODY} (d.660 AH), in wh
 the Quranic verses are examined comprehensively and their figurative meanings
 carefully explained.
 
-## 6. Simile in the Quran
+## Simile in the Quran
 
 Many meanings are too subtle to be explained directly. Their clarification would
 require lengthy discussion. The most concise and effective method is therefore
@@ -137,7 +135,7 @@ Comprehensive discussions of these occur in the classical works on rhetoric,
 _Maʿānī al-Quran_, the miraculous nature of the Quran, and _Majāz al-Quran_.
 Their study is indispensable for every student of the Quran.
 
-## 7. The Significance of Morphological Patterns
+## The Significance of Morphological Patterns
 
 Throughout the Noble Quran, words derived from the same root appear in
 different _abwāb_ (verbal forms).
@@ -147,18 +145,25 @@ Clearly, these variations are never devoid of semantic significance.
 The general principle is that an increase in the form of a word usually conveys
 an increase in meaning and emphasis.
 
-<!-- TODO ref al-Tiraaz -->
+As the author of _al-Ṭirāz_ writes, "The strength of an expression in conveying
+a meaning comes from shifting it from one form to another with more letters. The
+meaning is thereby intensified through the added letters; otherwise, the
+addition of letters would be pointless and serve no purpose."[-@@tiraz, vol. 2,
+p. 86]
 
-As the author of _al-Ṭirāz_ writes, "The force and intensity conveyed by a
-meaning arise through its wording, while the force of the wording results from
-changes in the verbal forms. Were this not so, there would be no purpose in the
-addition or omission of letters. Thus, the augmentation of the form necessarily
-contributes to the augmentation of the meaning." (Al-Ṭirāz)
+<!--
+OLD TRANSLATION
+"The force and intensity conveyed by a meaning arise through its wording, while
+the force of the wording results from changes in the verbal forms. Were this not
+so, there would be no purpose in the addition or omission of letters. Thus, the
+augmentation of the form necessarily contributes to the augmentation of the
+meaning." (Al-Ṭirāz)
+-->
 
 The following examples illustrate this principle.
 
 ::: {custom-style="Example Heading"}
-ʿAllām al-Ghuyūb and ʿĀlim al-Ghuyūb
+The phrases \ITA{عَلَّامُ الغُيُوب} (_ʿAllām al-Ghuyūb_) and \ITA{عَالِمُ الغُيُوب} (_ʿĀlim al-Ghuyūb_)
 :::
 
 There is a considerable difference between these two expressions.
@@ -182,14 +187,11 @@ themselves. (Sūrah al-Baqarah, Q2:222)
 The emphasis conveyed by _al-tawwābīn_ and _al-mutaṭahhirīn_ would not have been
 achieved had the verse simply said _al-tāʾibīn_ and _al-ṭāhirīn_.
 
-<!-- TODO ref Tiraaz -->
+_Tawwāb_ denotes one who repeatedly returns in repentance, whereas _tāʾib_
+merely signifies one who repents.[-@@tiraz, vol. 2, p. 87]
 
-_Tawwāb_ denotes one who repeatedly returns in repentance, whereas _tāʾib_ merely
-signifies one who repents. (Al-Ṭirāz)
-
-<!-- TODO Add transliteration -->
 ::: {custom-style="Example Heading"}
-[اسطاعوا]{dir="rtl"} and [استطاعوا]{dir="rtl"}
+The words \ITA{اسطاعوا} (_isṭāʿū_) and \ITA{استطاعوا} (_istaṭāʿū_)
 :::
 
 Allāh says,
@@ -202,19 +204,16 @@ Allāh says,
 So they could neither scale it nor pierce it. (Sūrah al-Kahf, Q18:97)
 \AYAH_END
 
-<!-- TODO add transliterations -->
-The variation between \ITA{اسطاعوا} and \ITA{استطاعوا} is meaningful.
+The variation between \ITA{اسطاعوا} (_isṭāʿū_) and \ITA{استطاعوا} (_istaṭāʿū_) is meaningful.
 
-<!-- TODO ref al-Taj al-Mukallal -->
-The author explains that the additional letter \ITA{ت} conveys greater effort
-and intensity. Consequently, the lighter form \ITA{اسطاعوا} is used for the
-comparatively easier act of climbing the barrier, whereas the heavier form
-\ITA{استطاعوا} is employed for the far more difficult task of piercing through
-it. (Al-Tāj al-Mukallal)
+The additional letter \ITA{ت} conveys greater effort and intensity.
+Consequently, the lighter form \ITA{اسطاعوا} is used for the comparatively
+easier act of climbing the barrier, whereas the heavier form \ITA{استطاعوا} is
+employed for the far more difficult task of piercing through
+it.[-@@taj_mukallal, p. 191]
 
-<!-- TODO ref add transliteration -->
 ::: {custom-style="Example Heading"}
-[تختانون]{dir="rtl"}
+The word \ITA{تَخْتَانُون} (_takhtānūn_)
 :::
 
 Allāh says,
@@ -250,21 +249,16 @@ Surely the human soul persistently inclines towards evil. (Sūrah Yūsuf, Q12:53
 
 Thus, intending an action is one thing, while actually committing it is another.
 
-<!-- TODO ref Mufradāt Alfāẓ al-Quran -->
-
 The verse refers only to the former, not the latter. Consequently, it
 constitutes one of the virtues of the Ṣaḥābah \hon{\P_THM}{\BODY}, for despite
-the natural inclination, they refrained from committing the prohibited act.
-(Mufradāt Alfāẓ al-Quran of al-Rāghib al-Iṣfahānī \hon{\M_HIM}{\BODY})
+the natural inclination, they refrained from committing the prohibited
+act.[-@@mufradat_raghib, vol. 1, p. 217]
 
-<!-- TODO add transliteration -->
 ::: {custom-style="Example Heading"}
-[كسبت]{dir="rtl"} and [اكتسبت]{dir="rtl"}
+The words \ITA{كَسَبَتْ} and \ITA{اكْتَسَبَتْ}
 :::
 
 Allāh says,
-
-[لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا اكْتَسَبَتْ]
 
 \AYAH_AR_START
 لَهَا مَا كَسَبَتۡ وَعَلَيۡهَا مَا ٱكۡتَسَبَتۡۗ
@@ -276,20 +270,17 @@ whatever evil it deliberately commits. (Sūrah al-Baqarah, Q2:286)
 \AYAH_END
 
 A profound distinction is conveyed here by the addition of only a single letter.
-
 The verb \ITA{اكتسبت}, being from Form VIII (_iftiʿāl_), carries the implication
 of deliberate intention and conscious effort.
-
-<!-- TODO ref Tiraaz -->
 Accordingly, good deeds earn reward whenever they are performed, whereas
 punishment for sin is attached only to that which is committed intentionally.
-(Al-Ṭirāz)
+[-@@tiraz, vol. 2, p. 87]
 
 ::: {custom-style="Example Heading"}
-[حصور]{dir="rtl"}
+The word \ITA{حصور} (_ḥaṣūr_)
 :::
 
-Regarding Prophet Yaḥyā \hon{\S_HIM}{\BODY}, Allāh says,
+Regarding Prophet Yaḥyá \hon{\S_HIM}{\BODY}, Allāh says,
 
 \AYAH_AR_START
 وَسَيِّدٗا وَحَصُورٗا وَنَبِيّٗا مِّنَ ٱلصَّٰلِحِينَ ٣٩
@@ -304,16 +295,18 @@ The root _ḥaṣr_ means restraint or prevention.
 
 However, _ḥaṣūr_ is an intensive form.
 
-<!-- TODO ref Tiraaz -->
+<!-- TODO ref Khafaji Tiraaz book -->
 Al-Khafājī \hon{\M_HIM}{\BODY} explains, "Since _ḥaṣūr_ is an intensive form,
 and intensity applies only to voluntary actions, it signifies one who
-voluntarily exercises restraint despite possessing the ability." (Al-Ṭirāz)
+voluntarily exercises restraint despite possessing the ability."[^khafaji]
 
-Thus, Prophet Yaḥyā \hon{\S_HIM}{\BODY} was not compelled to remain celibate.
+[^khafaji]: _Al-Ṭirāz_, vol. 2, pp. 65, 164; as occurs in the Urdu ed.
+
+Thus, Prophet Yaḥyá \hon{\S_HIM}{\BODY} was not compelled to remain celibate.
 Rather, it was a conscious act of voluntary self-restraint.
 
 ::: {custom-style="Example Heading"}
-[تنزل]{dir="rtl"}
+The word \ITA{تنزل} (_tanazzalu_)
 :::
 
 Allāh says,
@@ -326,14 +319,13 @@ Allāh says,
 The angels and the Spirit descend therein. (Sūrah al-Qadr, Q97:4)
 \AYAH_END
 
-The verb tanazzalu belongs to Form V (_tafaʿʿul_), whose characteristic is
+The verb _tanazzalu_ belongs to Form V (_tafaʿʿul_), whose characteristic is
 gradual occurrence.
 
-<!-- TODO ref Sharḥ al-Shifāʾ by al-Shihāb al-Khafājī -->
 The author of _al-Futūḥāt al-Ilāhīyah_ observes that this indicates the angels
 do not descend all at once. Rather, they continue descending in successive
 groups throughout the night, just as pilgrims arrive at the Kaʿbah one group
-after another. (Sharḥ al-Shifāʾ by al-Shihāb al-Khafājī \hon{\M_HIM}{\BODY})
+after another.[-@@futuhatilahiyah, vol. 8, p. 370]
 
 ::: {custom-style="Example Heading"}
 [المعذرون]{dir="rtl"}
@@ -352,11 +344,10 @@ Some nomadic Arabs (also) came with excuses. (Sūrah al-Tawbah, Q9:90)
 The Quran deliberately says \ITA{المعذرون}, not \ITA{المعتذرون}. The difference
 is significant.
 
-<!-- TODO ref Al-Futūḥāt al-Ilāhiyyah bi-Tawḍīḥ -->
 _Muʿadhdhir_ refers to one who presents an excuse despite not truly possessing
 one, whereas _muʿtadhir_ may refer to one who has either a genuine or an invalid
 excuse. By choosing \ITA{المعذرون}, the Quran indicates that the hypocrites were
-not genuinely excused. (Al-Futūḥāt al-Ilāhiyyah bi-Tawḍīḥ)
+not genuinely excused.[-@@futuhatilahiyah, vol. 3, p. 295]
 
 ::: {custom-style="Example Heading"}
 [يطيقونه]{dir="rtl"}

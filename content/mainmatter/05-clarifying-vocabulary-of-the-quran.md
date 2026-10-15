@@ -1,5 +1,5 @@
 
-# 5. Clarifying the Vocabulary of the Noble Quran
+# Clarifying the Vocabulary of the Noble Quran
 
 The soundest method for explaining the vocabulary of the Noble Quran is to begin
 with the Quran itself, then the Sunnah, and thereafter the statements of the
@@ -48,11 +48,10 @@ creation of the heavens and the earth, and the alternation of night and day, are
 signs for those of understanding. Here, the Quran uses the expression _Ulū
 al-Albāb_.
 
-<!-- TODO Brackets with the ayah referenced indirectly? -->
-
 Who are the _Ulū al-Albāb_ according to the Quran? The Quran itself explains
 that they are those who remember Allāh while standing, sitting, and lying on
-their sides, and who reflect upon the creation of the heavens and the earth.
+their sides, and who reflect upon the creation of the heavens and the earth
+(3:190--1).
 
 Likewise, with regard to acts of worship, the Quran employs terms such as Ṣalāh,
 Zakāh, Ṣawm, and Ḥajj.
@@ -72,11 +71,16 @@ If these technical meanings were disregarded, and one were to rely solely upon
 the lexical meanings of the words, the entire structure of Islamic worship would
 cease to exist.
 
-<!-- TODO ref Tafsir al-Qayyim -->
 It is for this reason that al-Ḥāfiẓ Ibn al-Qayyim \hon{\M_HIM}{\BODY} said,
+"...the Quran has its own distinct linguistic convention (ʿurf khāṣ) and
+established meanings. It is not appropriate to interpret it according to
+meanings other than these, nor is it permissible to interpret it outside the
+framework of that convention."[-@@tafsir_ibnqayyim, p. 269]
+
+<!-- OLD TRANSLATION
 "The Noble Quran possesses its own established linguistic convention (_ʿurf_)
 and its own defined meanings. It is not permissible to interpret the Quran
-outside the framework of this convention." (Al-Tafsīr al-Qayyim)
+outside the framework of this convention." (Al-Tafsīr al-Qayyim) -->
 
 Among the most distressing and painful phenomena witnessed in our own time is
 that after studying only a few elementary Arabic readers, people begin to
@@ -85,25 +89,37 @@ it, and cite it as authoritative proof.
 
 Such conduct reflects great audacity and profound irresponsibility.
 
-<!-- TODO ref Ibn Taymiyyah Muqaddimah Usul al-Tafsir -->
-
 Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY}, while discussing errors in
 Tafsīr in his _Muqaddimah fī Uṣūl al-Tafsīr_, writes,
 
+> Some interpreted the Quran merely according to what an Arabic speaker might
+> reasonably intend by his words, without considering the One who spoke the
+> Quran, the one to whom it was revealed \hon{\PBUH}{\BODY}, or those whom it
+> addressed.[-@@usul_tafsir_taymiyyah, p. 160]
+
+<!-- OLD
 > Another group interpreted the Quran solely according to the Arabic language,
 > without considering what the Speaker of the Quran intended, what the one upon
 > whom it was revealed \hon{\PBUH}{\BODY} explained, or how those who first
-> received the Quran understood it. (Muqaddimah fī Uṣūl al-Tafsīr)
-
-<!-- TODO ref Qurtubi Tafsir -->
+> received the Quran understood it. (Muqaddimah fī Uṣūl al-Tafsīr) -->
 
 Similarly, al-ʿAllāmah al-Qurṭubī \hon{\M_HIM}{\BODY} writes,
 
-> Whoever interprets the Quran solely on the basis of the Arabic language,
-> without relying upon transmitted reports and established narrations, will
-> inevitably fall into numerous errors, and will be guilty of interpreting the
-> Quran according to personal opinion (_tafsīr bi al-raʾy_). (Al-Jāmiʿ li-Aḥkām
-> al-Quran)
+> The second [form of prohibited interpretation] is to hasten to interpret the
+> Quran according to the apparent meaning of the Arabic language, without recourse
+> to transmitted reports concerning the unusual expressions of the Quran, its
+> ambiguous and altered terms, and its ellipsis, omission, implicit elements, and
+> advancing and delaying of expressions. Whoever has not mastered the apparent
+> meaning of Tafsīr and hastens to derive meanings merely from an understanding of
+> Arabic will frequently err and will enter the ranks of those who interpret the
+> Quran according to personal opinion.[@tafsir_qurtubi, vol. 1, p. 59]
+
+<!-- OLD TRANSLATION
+Whoever interprets the Quran solely on the basis of the Arabic language,
+without relying upon transmitted reports and established narrations, will
+inevitably fall into numerous errors, and will be guilty of interpreting the
+Quran according to personal opinion (_tafsīr bi al-raʾy_). (Al-Jāmiʿ li-Aḥkām
+al-Quran) -->
 
 Accordingly, anyone seeking to explain or interpret the vocabulary of the Noble
 Quran requires not only a command of the Arabic language, but also a thorough
@@ -114,8 +130,6 @@ Otherwise, the consequences can be exceedingly dangerous.
 
 At this point, the following guidance of Shaykh Anwar Shāh Kashmīrī
 \hon{\M_HIM}{\BODY} deserves the closest attention,
-
-<!-- TODO ref Malfuzat Anwar Shah Kashmiri -->
 
 > In its choice of vocabulary, the Noble Quran always selects the word that is
 > both the most accurate in conveying the intended reality and the most
@@ -128,8 +142,21 @@ At this point, the following guidance of Shaykh Anwar Shāh Kashmīrī
 > employed this word to describe death, thereby demonstrating that death is a
 > reception and transfer, not utter annihilation. Through a single word, the
 > Quran unveiled this profound reality. Elsewhere, the same word is employed in
-> its original sense of taking or receiving completely. (Malfūẓāt Anwar Shāh
-> Kashmīrī)
+> its original sense of taking or receiving completely.[-@@tafsir_lahori, vol.
+> 1, p. 122]
+
+<!-- ChatGPT'd translation
+In its choice of individual words, the Noble Qurʾān selects the precise term
+that conveys the actual and objective reality in a way that no other expression
+can match. For example, according to the beliefs of the pre-Islamic Arabs, it
+was perfectly appropriate to use the word tawaffī (توفّي) for death. Yet, in
+their conception, death did not entail the taking of the soul; rather, they
+believed that the soul simply left the body. The Qurʾān, however, does not use
+tawaffī in the sense of mere death. Rather, it uses the word to convey the
+reality that the soul is actually taken away, and it has therefore given the
+word tawaffī its original and proper meaning in accordance with its true
+reality. (1)
+-->
 
 The essence of Shaykh's observation is that every word employed by the Noble
 Quran is chosen with extraordinary precision in relation to both its context and

@@ -1,13 +1,11 @@
 
-# 6. Determining the Meaning of the Quranic Verses
+# Determining the Meaning of the Quranic Verses
 
 In determining the meaning of the verses of the Noble Quran, the following
 principle must always remain in view: the most reliable method is to explain the
 Quran through the Quran itself, then through the Sunnah, and thereafter through
 the statements of the Ṣaḥābah \hon{\P_THM}{\BODY} and the Tābiʿūn
 \hon{\M_THM}{\BODY}.
-
-<!-- TODO ref Ibn Taymiyah Muqaddimah fi usul al-tafsir -->
 
 Shaykh al-Islām Ibn Taymiyyah \hon{\M_HIM}{\BODY} writes,
 
@@ -17,8 +15,8 @@ Shaykh al-Islām Ibn Taymiyyah \hon{\M_HIM}{\BODY} writes,
 > this does not suffice, then one should turn to the Sunnah, for it explains and
 > interprets the Quran. Indeed, Imam Abū ʿAbdillāh Muḥammad ibn Idrīs al-Shāfiʿī
 > \hon{\M_HIM}{\BODY} went so far as to say that whatever ruling the Messenger
-> of Allāh \hon{\PBUH}{\BODY} gave was itself derived from the Quran.
-> (Muqaddimah fī Uṣūl al-Tafsīr)
+> of Allāh \hon{\PBUH}{\BODY} gave was itself derived from the
+> Quran.[-@@usul_tafsir_taymiyyah, p. 188]
 
 The verses of the Noble Quran resemble and reinforce one another. They explain,
 confirm, and complement each other. Allāh Most High says,
@@ -32,12 +30,10 @@ Allāh has sent down the finest discourse: a Book, consistent in its verses, and
 repeating its teachings. (Sūrah al-Zumar, Q39:23)
 \AYAH_END
 
-<!-- TODO ref Shah Wali Allah - Izalat al-Khafa -->
-
 Imam Shāh Walī Allāh al-Dihlawī \hon{\M_HIM}{\BODY} expresses this principle as
-follows, "The verses of the Quran resemble one another; one verse confirms
-another, and the primary interpreter of the Mighty Quran is the Messenger of
-Allāh \hon{\PBUH}{\BODY}." (Izālat al-Khafāʾ)
+follows, “Since Quran _āyāt_ resemble one another, with some confirming others,
+the Prophet \hon{\PBUH}{\BODY} is the one who explains and interprets the
+Glorious Quran.”[-@@izalat_khafa, vol. 1, p. 232]
 
 Accordingly, every verse should be understood in the light of the interpretation
 supported by other Quranic verses and the Sunnah. If this principle is
