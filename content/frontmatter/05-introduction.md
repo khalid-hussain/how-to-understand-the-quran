@@ -20,8 +20,8 @@ invitation.
 
 There is another group whose members have fashioned their own conception of
 Islam. They possess self-constructed frameworks and preconceived intellectual
-models. They seek to interpret the verses of the Quran through the lens of these
-assumptions, and wish to organise the Islamic way of life according to these
+models. They seek to interpret the _āyāt_ of the Quran through the lens of these
+assumptions, and wish to organize the Islamic way of life according to these
 very frameworks and designs. In short, they do not wish to make their thinking
 subservient to the Quran. Rather, they seek to make the Quran conform to their
 own thinking.
@@ -54,7 +54,7 @@ excessive restrictions and conditions upon benefiting from the Noble Quran.
 However, Allāh knows best that my sole intention is to uphold the truth and
 offer sincere counsel. Before us lie the pages of more than thirteen and a half
 centuries of Muslim history. These pages clearly demonstrate how those lacking
-proper understanding attempted to employ the Quranic verses in support of their
+proper understanding attempted to employ the Quranic _āyāt_ in support of their
 own aims and objectives. Rather than striving to draw themselves nearer to the
 Quran, they sought instead to draw the Quran nearer to their own ideas and
 preconceptions.
@@ -73,16 +73,18 @@ sincerely seek the truth. By adopting this path---_in shāʾ Allāh_---one may h
 for the unveiling of the secrets of the Divine Speech and aspire to attain its
 true objective.
 
-\AR_START
-وَاللهُ وَلِيُّ التَّوْفِيقِ
-\AR_END
-
-\EN_START
 Allāh alone is the Granter of success.
-\EN_END
+
+<!-- \AR_START
+وَاللهُ وَلِيُّ التَّوْفِيقِ
+\AR_END -->
+
+<!-- \EN_START
+Allāh alone is the Granter of success.
+\EN_END -->
 
 ::: {custom-style="Ragged Right"}
 Muḥammad Owais al-Nadwī al-Nagrāmī \hon{\M_HIM}{\BODY}\
 Dār al-ʿUlūm Nadwat al-ʿUlamāʾ, Lucknow, Uttar Pradesh, India\
-Sunday, 6 Safar 1377 AH \| 1st September 1957
+Sunday, 6 Safar 1377\SC{h} \| 1st September 1957
 :::
