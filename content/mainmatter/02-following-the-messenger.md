@@ -44,7 +44,7 @@ Consequently, to separate oneself from the light of Prophethood and then attempt
 to reflect upon the Quran, expecting to derive benefit from its teachings, is
 nothing but stepping into darkness.
 
-For this reason, when a man said to Muṭarrif ibn ʿAbdullāh ibn al-Shikhkhīr
+For this reason, when a man said to Muṭarrif ibn ʿAbdillāh ibn al-Shikhkhīr
 \hon{\M_HIM}{\BODY}, "Relate to us something other than the Quran," he
 replied, "By Allāh, we seek no substitute for the Quran. Rather, alongside the
 Quran, we seek the one who possessed the greatest understanding of it," meaning
@@ -59,7 +59,7 @@ Imam al-Shāṭibī \hon{\M_HIM}{\BODY} writes, "The Sunnah occupies the
 position of explanation and commentary with respect to the Book of Allāh."
 (Al-Muwāfaqāt) -->
 
-This Prophetic Sunnah is itself among the great favours of Allāh, counted in the
+This Prophetic Sunnah is itself among the great favors of Allāh, counted in the
 Noble Quran as one of His special blessings upon the believers. Allāh Most
 High says,
 
@@ -68,9 +68,9 @@ High says,
 \AYAH_AR_END
 
 \AYAH_START
-Indeed, Allāh has done the believers a great favour by raising up among them a
+Indeed, Allāh has done the believers a great favor by raising up among them a
 Messenger from their own people, reciting His verses to them, purifying them,
-and teaching them the Book and wisdom. (Sūrah Āl ʿImrān, Q3:164)
+and teaching them the Book and wisdom. (Sūrat Āl ʿImrān, Q3:164)
 \AYAH_END
 
 While explaining the meaning of _ḥikmah_, Abū Ḥayyān al-Andalusī
@@ -82,7 +82,7 @@ is that _ḥikmah_ is knowledge of Allāh's rulings, the understanding of which
 cannot be attained except through the explanation of the Messenger."
 [-@@tafsir_tabari, vol. 2, p. 577]
 
-Imam al-Shāfiʿī \hon{\M_HIM}{\BODY} writes in Al-Risālah, "I heard those
+Imam al-Shāfiʿī \hon{\M_HIM}{\BODY} writes in _Al-Risālah_, "I heard those
 scholars of the Quran whose knowledge I trust say, '_Ḥikmah_ refers to the
 Sunnah of the Messenger of Allāh \hon{\PBUH}{\BODY}.'"[-@@risalah_shafi3, p. 78]
 

@@ -5,11 +5,11 @@ The discussion that has preceded makes one thing clear: the treasures of the
 Quran are not attained merely by reading its words or knowing the meanings of
 its vocabulary. It is the Kalām Allāh, the final revelation sent for the
 guidance of mankind. Its proper understanding therefore requires a heart that
-recognises its majesty, a mind that approaches it with humility, and a method
+recognizes its majesty, a mind that approaches it with humility, and a method
 grounded in the Quran itself, the Sunnah of the Messenger of Allāh
 \hon{\PBUH}{\BODY}, and the understanding of the earliest generations.
 
-The first requirement is reverence for the Quran. One who does not recognise the
+The first requirement is reverence for the Quran. One who does not recognize the
 greatness of the One whose speech it is cannot hope to appreciate the greatness
 of His speech. The Quran opens its treasures to those who approach it with
 _taqwá_, sincerity, attentiveness, and a genuine desire for guidance. It is not
@@ -34,7 +34,7 @@ with a reliable translation and _tafsīr_. If something remains unclear, let tho
 of knowledge be consulted. What matters is that the journey begins.
 
 The ultimate purpose is not merely to know what the Quran says, but to allow the
-Quran to reform what we are. Its verses should correct our beliefs, purify our
+Quran to reform what we are. Its _āyāt_ should correct our beliefs, purify our
 hearts, regulate our conduct, and direct our lives towards the pleasure of
 Allāh. Let it become not merely a book that we read, but the Book by which we
 live.

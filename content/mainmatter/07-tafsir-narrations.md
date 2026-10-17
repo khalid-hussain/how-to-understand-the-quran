@@ -2,7 +2,7 @@
 # Exegetical Narrations
 
 Since, in discussing the explanation of the vocabulary of the Noble Quran and
-the determination of the meanings of its verses, reference has been made to the
+the determination of the meanings of its _āyāt_, reference has been made to the
 Prophetic teachings and to the statements of the Ṣaḥābah \hon{\P_THM}{\BODY} and
 the Tābiʿūn \hon{\M_HIM}{\BODY}, it is appropriate to say a few words regarding
 the transmitted tradition (_riwāyah_) of Tafsīr itself.
@@ -29,26 +29,26 @@ the understanding of the Quran directly from the court of Prophethood.
 Although the Ṣaḥābah \hon{\P_THM}{\BODY} were, in general, native Arabs, and
 although the Quran was revealed in their own language, they nevertheless
 regarded themselves as dependent upon the Messenger of Allāh \hon{\PBUH}{\BODY}
-in understanding the Quran. Whenever they encountered a word or verse whose
+in understanding the Quran. Whenever they encountered a word or _āyah_ whose
 meaning was unclear to them, they would ask the Prophet \hon{\PBUH}{\BODY}, who
-himself would explain and interpret the verses.
+himself would explain and interpret the _āyāt_.
 
-The leading Companions also resolved many questions concerning the Quran in
-their own scholarly gatherings. They explained unfamiliar Quranic vocabulary by
+The leading Ṣaḥābah also resolved many questions concerning the Quran in their
+own scholarly gatherings. They explained unfamiliar Quranic vocabulary by
 referring to classical Arabic poetry, reflected upon the legal rulings contained
-in the Quran, derived legal principles from its verses, explained the occasions
+in the Quran, derived legal principles from its _āyāt_, explained the occasions
 of revelation (_asbāb al-nuzūl_), and corrected anyone whom they found
 misunderstanding or misinterpreting its meanings.
 
 Among the Ṣaḥābah \hon{\P_THM}{\BODY}, ten individuals enjoyed particular
 distinction in this field:
 
-1.  The Four Rightly Guided Caliphs \hon{\P_THM}{\BODY},
-2.  ʿAbdullāh ibn Masʿūd \hon{\P_HIM}{\BODY},
-3.  ʿAbdullāh ibn ʿAbbās \hon{\P_TWO}{\BODY},
-4.  Ubayy ibn Kaʿb \hon{\P_HIM}{\BODY},
-5.  Zayd ibn Thābit \hon{\P_HIM}{\BODY},
-6.  Abū Mūsá al-Ashʿarī \hon{\P_HIM}{\BODY}, and
+1.  The Four Rightly Guided Caliphs \hon{\P_THM}{\BODY};
+2.  ʿAbdullāh ibn Masʿūd \hon{\P_HIM}{\BODY};
+3.  ʿAbdullāh ibn ʿAbbās \hon{\P_TWO}{\BODY};
+4.  Ubayy ibn Kaʿb \hon{\P_HIM}{\BODY};
+5.  Zayd ibn Thābit \hon{\P_HIM}{\BODY};
+6.  Abū Mūsá al-Ashʿarī \hon{\P_HIM}{\BODY}; and
 7.  ʿAbdullāh ibn al-Zubayr \hon{\P_TWO}{\BODY}.[-@@itqan_suyuti, p. 783]
 
 Besides these, exegetical narrations are also reported from
@@ -65,7 +65,7 @@ Among the Rightly Guided Caliphs, the largest number of exegetical narrations is
 reported from ʿAlī ibn Abī Ṭālib \hon{\P_HIM}{\BODY}. After him comes ʿAbdullāh
 ibn Masʿūd \hon{\P_HIM}{\BODY}, while the greatest number of exegetical reports
 overall are attributed to ʿAbdullāh ibn ʿAbbās \hon{\P_TWO}{\BODY}. Among the
-Companions, an early compilation of Tafsīr is attributed to Ubayy ibn Kaʿb
+Ṣaḥābah, an early compilation of Tafsīr is attributed to Ubayy ibn Kaʿb
 \hon{\P_HIM}{\BODY}. Imam Ibn Jarīr al-Ṭabarī \hon{\M_HIM}{\BODY} relied upon it
 extensively, as did al-Ḥākim \hon{\M_HIM}{\BODY} in _al-Mustadrak_, and Imam
 Aḥmad ibn Ḥanbal \hon{\M_HIM}{\BODY}.[-@@mabadi2_fi_tafsir, p. 19]
@@ -73,38 +73,38 @@ Aḥmad ibn Ḥanbal \hon{\M_HIM}{\BODY}.[-@@mabadi2_fi_tafsir, p. 19]
 
 ## The Second Period: The Era of the Tābiʿūn \hon{\M_HIM}{\HEADER}
 
-Following the Companions came the generation of the Tābiʿūn \hon{\M_THM}{\BODY}.
+Following the Ṣaḥābah came the generation of the Tābiʿūn \hon{\M_THM}{\BODY}.
 During this period, Makkah and Kūfah emerged as the principal centres for
 Quranic learning.
 
 In Makkah, the students of ʿAbdullāh ibn ʿAbbās \hon{\P_TWO}{\BODY} included:
 
-- Mujāhid ibn Jabr \hon{\M_HIM}{\BODY} (d.102 or 103 AH)
-- Saʿīd ibn Jubayr \hon{\M_HIM}{\BODY} (d.94 AH)
-- ʿIkrimah \hon{\M_HIM}{\BODY} (d.106 or 107 AH)
-- Ṭāwūs ibn Kaysān \hon{\M_HIM}{\BODY} (d.106 AH)
-- ʿAṭāʾ ibn Abī Rabāḥ \hon{\M_HIM}{\BODY} (d.114 AH)
+- Mujāhid ibn Jabr \hon{\M_HIM}{\BODY} (d.102 or 103\SC{h})
+- Saʿīd ibn Jubayr \hon{\M_HIM}{\BODY} (d.94\SC{h})
+- ʿIkrimah \hon{\M_HIM}{\BODY} (d.106 or 107\SC{h})
+- Ṭāwūs ibn Kaysān \hon{\M_HIM}{\BODY} (d.106\SC{h})
+- ʿAṭāʾ ibn Abī Rabāḥ \hon{\M_HIM}{\BODY} (d.114\SC{h})
 
 In Kūfah, the students of ʿAbdullāh ibn Masʿūd \hon{\P_HIM}{\BODY} included:
 
-- ʿAlqamah ibn Qays \hon{\M_HIM}{\BODY} (d.95 AH)
-- Imam al-Shaʿbī \hon{\M_HIM}{\BODY} (d.105 AH)
+- ʿAlqamah ibn Qays \hon{\M_HIM}{\BODY} (d.95\SC{h})
+- Imam al-Shaʿbī \hon{\M_HIM}{\BODY} (d.105\SC{h})
 
 Both devoted themselves to the service of Islam through teaching the Quran.
 
 Among the other distinguished scholars of this generation were:
 
-- Ḥasan al-Baṣrī \hon{\M_HIM}{\BODY} (d.121 AH)
+- Al-Ḥasan al-Baṣrī \hon{\M_HIM}{\BODY} (d.121\SC{h})
 - ʿAṭāʾ ibn Abī Muslim al-Khurāsānī \hon{\M_HIM}{\BODY}
-- Muḥammad ibn Kaʿb al-Quraẓī \hon{\M_HIM}{\BODY} (d.117 AH)
-- Abū al-ʿĀliyah Rafīʿ ibn Mihrān al-Riyāḥī \hon{\M_HIM}{\BODY} (d.90 AH)
-- al-Ḍaḥḥāk ibn Muzāḥim \hon{\M_HIM}{\BODY} (d.105 AH)
-- ʿAṭiyyah ibn Saʿīd al-ʿAwfī \hon{\M_HIM}{\BODY} (d.111 AH)
-- Qatādah ibn Diʿāmah \hon{\M_HIM}{\BODY} (d.117 AH)
+- Muḥammad ibn Kaʿb al-Quraẓī \hon{\M_HIM}{\BODY} (d.117\SC{h})
+- Abū al-ʿĀliyah Rafīʿ ibn Mihrān al-Riyāḥī \hon{\M_HIM}{\BODY} (d.90\SC{h})
+- al-Ḍaḥḥāk ibn Muzāḥim \hon{\M_HIM}{\BODY} (d.105\SC{h})
+- ʿAṭiyyah ibn Saʿīd al-ʿAwfī \hon{\M_HIM}{\BODY} (d.111\SC{h})
+- Qatādah ibn Diʿāmah \hon{\M_HIM}{\BODY} (d.117\SC{h})
 - Abū Mālik \hon{\M_HIM}{\BODY}
 - Zayd ibn Aslam \hon{\M_HIM}{\BODY}
 - Rabīʿ ibn Anas \hon{\M_HIM}{\BODY}
-- Murrah al-Hamdānī \hon{\M_HIM}{\BODY} (d.76 AH).
+- Murrah al-Hamdānī \hon{\M_HIM}{\BODY} (d.76\SC{h}).
 
 Among the works of Tafsīr listed by the author of _Kashf al-Ẓunūn_, the following
 are attributed to scholars of the Tābiʿūn:
@@ -117,7 +117,7 @@ are attributed to scholars of the Tābiʿūn:
 
 Likewise, Ibn al-Wazīr al-Yamanī \hon{\M_HIM}{\BODY}, in _Īthār al-Ḥaqq_,
 mentions the Tafsīr of ʿAlī ibn Abī Ṭalḥah al-Hāshimī, a student of ʿAbdullāh
-ibn ʿAbbās \hon{\P_TWO}{\BODY}, together with the Tafsīr of Imam Ḥasan al-Baṣrī
+ibn ʿAbbās \hon{\P_TWO}{\BODY}, together with the Tafsīr of Imam Al-Ḥasan al-Baṣrī
 \hon{\M_HIM}{\BODY}, ʿAṭāʾ ibn Abī Rabāḥ \hon{\M_HIM}{\BODY}, and Muḥammad ibn
 Kaʿb al-Quraẓī \hon{\M_HIM}{\BODY}.[-@@itharHaqq, vol. 2, pp. 77--9]
 
@@ -128,7 +128,7 @@ namely Shaykh Abū Ṣāliḥ \hon{\M_HIM}{\BODY}.
 Imam Aḥmad ibn Ḥanbal \hon{\M_HIM}{\BODY} is reported to have said, "This
 manuscript is in Egypt. If a person were to undertake a journey to Egypt solely
 to obtain it, such a journey would not be excessive."
-Abū Jaʿfar al-Naḥḥās \hon{\M_HIM}{\BODY} (d.338 AH) drew extensively from this
+Abū Jaʿfar al-Naḥḥās \hon{\M_HIM}{\BODY} (d.338\SC{h}) drew extensively from this
 manuscript in his work _Al-Nāsikh wa al-Mansūkh_, and Ibn Jarīr al-Ṭabarī
 \hon{\M_HIM}{\BODY} likewise cited it frequently in his Tafsīr.[-@@itqan_suyuti, p. 785]
 
@@ -141,7 +141,7 @@ of this period.
 
 First, the principal foundation of the Tafsīr of the Tābiʿūn remained the
 narrations and statements of the Ṣaḥābah \hon{\P_THM}{\BODY}. Nevertheless, they
-also exercised independent reasoning, personal judgement, and legal deduction
+also exercised independent reasoning, personal judgment, and legal deduction
 where appropriate. Imam al-Bukhārī \hon{\M_HIM}{\BODY} collected many of their
 lexical explanations of Quranic vocabulary in his _Ṣaḥīḥ_.
 
@@ -160,7 +160,7 @@ interpretations:
 
 - His interpretation of al-Maqām al-Maḥmūd.
 - His interpretation of the _āyah_, \ITA{إِلَىٰ رَبِّهَا نَاظِرَةٌ} "...looking
-  at their Lord." (Sūrah al-Qiyāmah, Q75:23)[-@@tamheedIbnAbdulBarr, vol. 5, pp. 169--70]
+  at their Lord." (Sūrat al-Qiyāmah, Q75:23)[-@@tamheedIbnAbdulBarr, vol. 5, pp. 169--70]
 
 Fourth, the author of _Fajr al-Islām_, quoting _Ṭabaqāt Ibn Saʿd_, states that
 some scholars hesitated to accept certain opinions of Mujāhid
@@ -180,20 +180,20 @@ reports themselves may remain reliable in substance.
 In this connection, Ibn Taymīyah \hon{\M_HIM}{\BODY} mentions transmitters such
 as:
 
-- Al-Suddī al-Kabīr
-- Al-Ḍaḥḥāk
-- ʿAlī ibn Abī Ṭalḥah
-- Al-Wālibī
-- Qatādah
+- Al-Suddī al-Kabīr;
+- Al-Ḍaḥḥāk;
+- ʿAlī ibn Abī Ṭalḥah;
+- Al-Wālibī; and
+- Qatādah.
 
 He also identifies several weak chains, including:
 
 - Juwaybir ibn Saʿīd → al-Ḍaḥḥāk → Ibn ʿAbbās, because Juwaybir is a weak
-  narrator.
+  narrator;
 - ʿUbayd Allāh ibn Sulaymān → al-Ḍaḥḥāk → Ibn ʿAbbās, because ʿUbayd Allāh is
-  weak.
-- Muḥammad ibn Saʿd al-ʿAwfī → his father → ʿAṭiyyah al-ʿAwfī → Ibn ʿAbbās,
-  because ʿAṭiyyah al-ʿAwfī is weak.
+  weak;
+- Muḥammad ibn Saʿd al-ʿAwfī → his father → ʿAṭīyah al-ʿAwfī → Ibn ʿAbbās,
+  because ʿAṭīyah al-ʿAwfī is weak; and
 - Muḥammad ibn al-Sāʾib al-Kalbī → Abū Ṣāliḥ Bādhām → Ibn ʿAbbās, because Bādhām
   is weak, while al-Kalbī was judged to be a fabricator (_kadhdhāb_).
 
@@ -205,10 +205,10 @@ Sulaymān, abandoned narrators (_matrūkīn_).[-@@talkhis_istighathah, p. 74]
 
 The author of _Kashf al-Ẓunūn_ likewise records the same judgment.
 
-## The Third Period: The Era of the Tabiʿ al-Tābiʿīn \hon{\M_HIM}{\HEADER}
+## The Third Period: The Era of the Tābiʿū al-Tābiʿīn \hon{\M_HIM}{\HEADER}
 
 Following the generation of the Tābiʿūn \hon{\M_HIM}{\BODY} came the era of the
-Tabiʿ al-Tābiʿīn \hon{\M_HIM}{\BODY}. Their principal achievement lay in
+Tābiʿū al-Tābiʿīn \hon{\M_HIM}{\BODY}. Their principal achievement lay in
 collecting, preserving, and disseminating the statements of the Ṣaḥābah
 \hon{\P_THM}{\BODY} and the Tābiʿūn \hon{\M_HIM}{\BODY}. They also compiled many
 other narrations, although, with a few notable exceptions, they generally did
@@ -217,38 +217,38 @@ reports.
 
 Among the most prominent scholars of this period were:
 
-- Sufyān ibn ʿUyaynah \hon{\M_HIM}{\BODY} (d.198 AH)
-- Wakīʿ ibn al-Jarrāḥ \hon{\M_HIM}{\BODY} (d.197 AH)
-- Shuʿbah ibn al-Ḥajjāj \hon{\M_HIM}{\BODY} (d.160 AH)
-- Isḥāq ibn Rāhawayh \hon{\M_HIM}{\BODY} (d.238 AH)
-- Yazīd ibn Hārūn al-Sulamī \hon{\M_HIM}{\BODY} (d.206 AH)
-- ʿAbd al-Razzāq ibn Hammām \hon{\M_HIM}{\BODY} (d.211 AH)
-- Ādam ibn Abī Iyās \hon{\M_HIM}{\BODY} (d.220 AH)
-- Rūḥ ibn ʿUbādah \hon{\M_HIM}{\BODY} (d.205 AH)
-- Saʿīd ibn Dāwūd \hon{\M_HIM}{\BODY} (d.220 AH)
-- Abū Bakr ibn Abī Shaybah \hon{\M_HIM}{\BODY} (d.235 AH)
-- ʿAbd ibn Ḥumayd \hon{\M_HIM}{\BODY} (d.249 AH)
-- ʿAbd Allāh ibn Wahb \hon{\M_HIM}{\BODY} (d.199 AH)
+- Sufyān ibn ʿUyaynah \hon{\M_HIM}{\BODY} (d.198\SC{h})
+- Wakīʿ ibn al-Jarrāḥ \hon{\M_HIM}{\BODY} (d.197\SC{h})
+- Shuʿbah ibn al-Ḥajjāj \hon{\M_HIM}{\BODY} (d.160\SC{h})
+- Isḥāq ibn Rāhawayh \hon{\M_HIM}{\BODY} (d.238\SC{h})
+- Yazīd ibn Hārūn al-Sulamī \hon{\M_HIM}{\BODY} (d.206\SC{h})
+- ʿAbd al-Razzāq ibn Hammām \hon{\M_HIM}{\BODY} (d.211\SC{h})
+- Ādam ibn Abī Iyās \hon{\M_HIM}{\BODY} (d.220\SC{h})
+- Rūḥ ibn ʿUbādah \hon{\M_HIM}{\BODY} (d.205\SC{h})
+- Saʿīd ibn Dāwūd \hon{\M_HIM}{\BODY} (d.220\SC{h})
+- Abū Bakr ibn Abī Shaybah \hon{\M_HIM}{\BODY} (d.235\SC{h})
+- ʿAbd ibn Ḥumayd \hon{\M_HIM}{\BODY} (d.249\SC{h})
+- ʿAbdullāh ibn Wahb \hon{\M_HIM}{\BODY} (d.199\SC{h})
 
 During this period, the scope of Tafsīr expanded considerably. A vast number of
 exegetical narrations came into circulation. Among the works of Tafsīr listed by
 the author of _Kashf al-Ẓunūn_, the following belong to this era:
 
-- Tafsīr Ibn Jurayj (d.150 AH)
-- Tafsīr Muqātil (d.150 AH)
-- Tafsīr Ādam ibn Abī Iyās (d.220 AH)
-- Tafsīr Shuʿbah ibn al-Ḥajjāj (d.160 AH)
-- Tafsīr ʿAbd al-Razzāq ibn Hammām (d.211 AH)
-- Tafsīr ʿAbd ibn Ḥumayd (d.249 AH)
-- Tafsīr Wakīʿ ibn al-Jarrāḥ (d.197 AH)
-- Tafsīr Yazīd ibn Hārūn
-- Rūḥ ibn ʿUbādah \hon{\M_HIM}{\BODY} compiled a work of Tafsīr (_Tahdhīb al-Kamāl_)
+- Tafsīr Ibn Jurayj (d.150\SC{h});
+- Tafsīr Muqātil (d.150\SC{h});
+- Tafsīr Ādam ibn Abī Iyās (d.220\SC{h});
+- Tafsīr Shuʿbah ibn al-Ḥajjāj (d.160\SC{h});
+- Tafsīr ʿAbd al-Razzāq ibn Hammām (d.211\SC{h});
+- Tafsīr ʿAbd ibn Ḥumayd (d.249\SC{h});
+- Tafsīr Wakīʿ ibn al-Jarrāḥ (d.197\SC{h});
+- Tafsīr Yazīd ibn Hārūn;
+- Rūḥ ibn ʿUbādah \hon{\M_HIM}{\BODY} compiled a work of Tafsīr (_Tahdhīb al-Kamāl_);
 - Al-Khaṭīb al-Baghdādī \hon{\M_HIM}{\BODY} mentions a Tafsīr attributed to
-  Abū Bakr ibn Abī Shaybah \hon{\M_HIM}{\BODY}
+  Abū Bakr ibn Abī Shaybah \hon{\M_HIM}{\BODY};
 - Saʿīd ibn Dāwūd \hon{\M_HIM}{\BODY} is likewise regarded as the author of a
-  Tafsīr (_Mirʾāt al-Tafsīr_)
-- Tafsīr Sufyān al-Thawrī (a manuscript is preserved in the Rampur Library)
-- Tafsīr Imām Mālik \hon{\M_HIM}{\BODY}
+  Tafsīr (_Mirʾāt al-Tafsīr_);
+- Tafsīr Sufyān al-Thawrī (a manuscript is preserved in the Rampur Library); and
+- Tafsīr Imām Mālik.
 
 Regarding the Tafsīr attributed to Imam Mālik \hon{\M_HIM}{\BODY}, there remains
 some uncertainty as to whether it was authored by the Imam himself or compiled
@@ -270,22 +270,24 @@ of time.
 
 Among the principal sources upon which his Tafsīr rests are:
 
-- The exegetical reports attributed to ʿAbdullāh ibn ʿAbbās \hon{\P_TWO}{\BODY}
-- The Tafsīr of Saʿīd ibn Jubayr \hon{\M_HIM}{\BODY}
-- The Tafsīr of Mujāhid \hon{\M_HIM}{\BODY}
-- The Tafsīr of Qatādah ibn Diʿāmah \hon{\M_HIM}{\BODY}
-- The Tafsīr of Ḥasan al-Baṣrī \hon{\M_HIM}{\BODY}
-- The Tafsīr of ʿIkrimah \hon{\M_HIM}{\BODY}
-- The Tafsīr of al-Ḍaḥḥāk ibn Muzāḥim \hon{\M_HIM}{\BODY}
-- The exegetical reports of ʿAbdullāh ibn Masʿūd \hon{\P_HIM}{\BODY}
-- The Tafsīr of ʿAbd al-Raḥmān ibn Zayd ibn Aslam \hon{\M_HIM}{\BODY}
-- The Tafsīr of Ibn Jurayj \hon{\M_HIM}{\BODY}
-- The Tafsīr of Muqātil \hon{\M_HIM}{\BODY}
+- the exegetical reports attributed to ʿAbdullāh ibn ʿAbbās \hon{\P_TWO}{\BODY};
+- the Tafsīr of Saʿīd ibn Jubayr \hon{\M_HIM}{\BODY};
+- the Tafsīr of Mujāhid \hon{\M_HIM}{\BODY};
+- the Tafsīr of Qatādah ibn Diʿāmah \hon{\M_HIM}{\BODY};
+- the Tafsīr of Ḥasan al-Baṣrī \hon{\M_HIM}{\BODY};
+- the Tafsīr of ʿIkrimah \hon{\M_HIM}{\BODY};
+- the Tafsīr of al-Ḍaḥḥāk ibn Muzāḥim \hon{\M_HIM}{\BODY};
+- the exegetical reports of ʿAbdullāh ibn Masʿūd \hon{\P_HIM}{\BODY};
+- the Tafsīr of ʿAbd al-Raḥmān ibn Zayd ibn Aslam \hon{\M_HIM}{\BODY};
+- the Tafsīr of Ibn Jurayj \hon{\M_HIM}{\BODY}; and
+- the Tafsīr of Muqātil \hon{\M_HIM}{\BODY}.
 
 In addition to these, he also cited, wherever appropriate, numerous well-known
 and authenticated _aḥādīth_. The Tafsīr of Ubayy ibn Kaʿb \hon{\P_HIM}{\BODY}
 and that of ʿAlī ibn Abī Ṭalḥah \hon{\M_HIM}{\BODY}, both mentioned earlier,
 likewise served as important sources for his work.
+
+---
 
 These, then, were the three principal historical stages in the development of
 the transmitted exegetical tradition, presented here in brief.
@@ -304,6 +306,7 @@ It is for this reason that Imam Shāh ʿAbd al-ʿAzīz al-Dihlawī
 \hon{\M_HIM}{\BODY}, despite being the most important repository of transmitted
 exegetical material, among the works of the fourth tier of Ḥadīth literature.
 
+<!-- TODO ref Shah Abdul Aziz -->
 Concerning the books belonging to this category, he writes, "Whoever wishes to
 verify the narrations found in these works should consult _Mīzān al-Iʿtidāl_ by
 al-Dhahabī \hon{\M_HIM}{\BODY} and _Lisān al-Mīzān_ by Ibn Ḥajar al-ʿAsqalānī

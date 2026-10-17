@@ -4,14 +4,16 @@
 The first prerequisite for a true student of the Noble Quran, and for one who
 seeks to derive genuine benefit from it, is that his heart be filled with
 reverence for the Quran. Moreover, this luminous conviction should permeate
-every fibre of his being.
+every fiber of his being.
 
 Shaykh Muḥammad Ismāʿīl Shahīd \hon{\M_HIM}{\BODY} wrote, "The Noble Quran is
 one of the eternal attributes of Allāh Most High. This attribute bears no
 resemblance whatsoever to the contingent world of creation. It is solely through
 His grace that Allāh clothed this eternal attribute and intrinsic perfection in
 the garment of the Arabic language and sent it down, making it the means of
-communication between Himself and His servants." (Ṣirāṭ-i Mustaqīm)
+communication between Himself and His servants."[^sirat_mustaqim]
+
+[^sirat_mustaqim]: _Ṣirāṭ-i Mustaqīm_ (in Persian), p. 155; as occurs in the Urdu ed.
 
 Every Muslim, as a matter of belief, acknowledges that the Noble Quran is the
 Speech of Allāh. However, to derive benefit from it, this belief must remain
@@ -41,7 +43,7 @@ the lamp of Īmān.
 
 If frail and ignorant man fails to appreciate the majesty and grandeur of this
 Divine relationship, it is merely a reflection of his own narrow vision and
-impoverished perception. Otherwise, the reality is as Allāh says:
+impoverished perception. Otherwise, the reality is as Allāh says,
 
 \AYAH_AR_START
 لَوۡ أَنزَلۡنَا هَٰذَا ٱلۡقُرۡءَانَ عَلَىٰ جَبَلٖ لَّرَأَيۡتَهُۥ خَٰشِعٗا مُّتَصَدِّعٗا مِّنۡ خَشۡيَةِ ٱللَّهِۚ
@@ -49,14 +51,14 @@ impoverished perception. Otherwise, the reality is as Allāh says:
 
 \AYAH_START
 Had We sent down this Quran upon a mountain, you would certainly have seen it
-humbled and split apart in awe of Allāh. (Sūrah al-Ḥashr, Q59:21)
+humbled and split apart in awe of Allāh. (Sūrat al-Ḥashr, Q59:21)
 \AYAH_END
 
 Such is the majesty of the One Who spoke this Quran that, had it been revealed
 upon a mountain, the mountain itself would have been humbled, shattered, and
 torn asunder in fear before the overwhelming grandeur of the Divine Speaker. As
 for those fortunate souls whose hearts are filled with certainty regarding this
-Divine attribution, Allāh describes them by saying:
+Divine attribution, Allāh describes them by saying,
 
 \AYAH_AR_START
 وَإِذَا سَمِعُواْ مَآ أُنزِلَ إِلَى ٱلرَّسُولِ تَرَىٰٓ أَعۡيُنَهُمۡ تَفِيضُ مِنَ ٱلدَّمۡعِ مِمَّا عَرَفُواْ مِنَ ٱلۡحَقِّۖ
@@ -71,7 +73,7 @@ al-Māʾidah, Q5:83)
 When these blessed souls hear the Speech of Allāh, their hearts tremble, and
 their bodies shiver. Awe and reverential fear overwhelm them, causing both their
 inward and outward being to submit humbly before the remembrance of Allāh. Allāh
-Most High says:
+Most High says,
 
 \AYAH_AR_START
 ٱللَّهُ نَزَّلَ أَحۡسَنَ ٱلۡحَدِيثِ كِتَٰبٗا مُّتَشَٰبِهٗا مَّثَانِيَ تَقۡشَعِرُّ مِنۡهُ جُلُودُ ٱلَّذِينَ يَخۡشَوۡنَ رَبَّهُمۡ ثُمَّ تَلِينُ جُلُودُهُمۡ وَقُلُوبُهُمۡ إِلَىٰ ذِكۡرِ ٱللَّهِۚ
@@ -80,7 +82,7 @@ Most High says:
 \AYAH_START
 Allāh has sent down the finest message: a Book, consistent in its verses and
 repeating its teachings. The skins of those who fear their Lord shudder at it;
-then their skins and their hearts soften at the remembrance of Allāh. (Sūrah
+then their skins and their hearts soften at the remembrance of Allāh. (Sūrat
 al-Zumar, Q39:23)
 \AYAH_END
 
@@ -93,7 +95,7 @@ continually strengthens and increases their faith:
 
 \AYAH_START
 The true believers are only those whose hearts tremble when Allāh is mentioned,
-and whose faith increases whenever His verses are recited to them. (Sūrah
+and whose faith increases whenever His _āyāt_ are recited to them. (Sūrat
 al-Anfāl, Q8:2)
 \AYAH_END
 
@@ -106,7 +108,7 @@ of their hearts and souls:
 
 \AYAH_START
 We send down in the Quran that which is a healing and a mercy for the
-believers. (Sūrah al-Isrāʾ, Q17:82)
+believers. (Sūrat al-Isrāʾ, Q17:82)
 \AYAH_END
 
 In summary, anyone who wishes to benefit from the Noble Quran must possess a

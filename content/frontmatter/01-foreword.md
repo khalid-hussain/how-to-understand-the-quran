@@ -78,7 +78,7 @@ readers, and grant it lasting acceptance and benefit for generations to come.
 Āmīn.
 
 ::: {custom-style="Ragged Right"}
-Shaykh Bilāl ʿAbd al-Ḥayy al-Ḥasanī al-Nadwī \hon{\H_HIM}{\BODY}\
+Shaykh Bilāl ʿAbd al-Ḥayy al-Ḥasanī \hon{\H_HIM}{\BODY}\
 Chancellor, Dār al-ʿUlūm Nadwat al-ʿUlamāʾ, Lucknow\
 19 Shaʿbān 1447\SC{h} \| 7 February 2026
 :::

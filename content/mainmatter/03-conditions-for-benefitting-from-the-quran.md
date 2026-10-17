@@ -12,7 +12,7 @@ It is for this reason that Allāh Most High says,
 \AYAH_AR_END
 
 \AYAH_START
-A guidance for those who are mindful of Allāh. (Sūrah al-Baqarah, Q2:2)
+A guidance for those who are mindful of Allāh. (Sūrat al-Baqarah, Q2:2)
 \AYAH_END
 
 <!-- Original text (Probably)
@@ -22,45 +22,48 @@ A guidance for those who are mindful of Allāh. (Sūrah al-Baqarah, Q2:2)
 ذمہ دار وہ خود ہے، قرآن کا اس میں کیا نقص ہے۔
 -->
 
-Shaykh Muḥammad Qāsim Nānautawī \hon{\M_HIM}{\BODY} observed, "Here, _taqwá_ is
+Shaykh Muḥammad Qāsim Nānawtawī \hon{\M_HIM}{\BODY} observed, "Here, _taqwá_ is
 not intended in its technical legal sense. Rather, its lexical meaning is
 intended, namely, fear, apprehension, and inner concern. Accordingly, the
-meaning of the verse is that the Quran guides those whose hearts possess an
+meaning of the _āyah_ is that the Quran guides those whose hearts possess an
 earnest concern and a genuine desire for self-reformation."
 
-At this point, Shaykh Nānautawī \hon{\M_HIM}{\BODY} presents a particularly
-subtle argument. He says, "In Sūrat al-Layl, Allāh says,
+At this point, Shaykh Nānawtawī \hon{\M_HIM}{\BODY} presents a particularly
+subtle argument. He says,
 
-\AYAH_AR_START
+> In _Sūrat al-Layl_, Allāh says,
+
+\LIST_AYAH_AR_START
 فَأَمَّا مَنۡ أَعۡطَىٰ وَٱتَّقَىٰ ٥ وَصَدَّقَ بِٱلۡحُسۡنَىٰ ٦
-\AYAH_AR_END
+\LIST_AYAH_AR_END
 
-\AYAH_START
+\LIST_AYAH_START
 As for the one who is charitable, mindful (of Allāh), and (firmly) believes in
 the finest reward. (Sūrat al-Layl, Q92:5--6)
-\AYAH_END
+\LIST_AYAH_END
 
-Thereafter, He says,
+> Thereafter, He says,
 
-\AYAH_AR_START
+\LIST_AYAH_AR_START
 وَأَمَّا مَنۢ بَخِلَ وَٱسۡتَغۡنَىٰ ٨ وَكَذَّبَ بِٱلۡحُسۡنَىٰ ٩
-\AYAH_AR_END
+\LIST_AYAH_AR_END
 
-\AYAH_START
+\LIST_AYAH_START
 And as for the one who is stingy, indifferent (to Allāh), and (staunchly)
 denies the finest reward. (Sūrat al-Layl, Q92:8--9)
-\AYAH_END
+\LIST_AYAH_END
 
-Here, the rhetorical device of contrast (_ṣanʿat al-taqābul_) has been employed.
-In the first passage, _aʿṭā_ (he gave) is contrasted in the second with
-_bakhila_ (he withheld). Likewise, _ṣaddaqa_ (he affirmed) is contrasted with
-_kadhdhaba_ (he denied). Similarly, _ittaqā_ is contrasted with _istaghnā_.
+> Here, the rhetorical device of contrast (_ṣanʿat al-taqābul_) has been
+> employed. In the first passage, _aʿṭā_ (he gave) is contrasted in the second
+> with _bakhila_ (he withheld). Likewise, _ṣaddaqa_ (he affirmed) is contrasted
+> with _kadhdhaba_ (he denied). Similarly, _ittaqā_ is contrasted with
+> _istaghnāʾ_.
 
-Because of this deliberate contrast, the meaning of _taqwá_ here must be the
-opposite of _istighnāʾ_. Since _istighnāʾ_ signifies self-sufficiency,
-indifference, and freedom from concern, _taqwá_ in this context signifies
-concern, earnestness, and inward apprehension.[@@malfuzat_thanwi, vol. 7, pp.
-275--6]
+> Because of this deliberate contrast, the meaning of _taqwá_ here must be the
+> opposite of _istighnāʾ_. Since _istighnāʾ_ signifies self-sufficiency,
+> indifference, and freedom from concern, _taqwá_ in this context signifies
+> concern, earnestness, and inward apprehension.[@@malfuzat_thanwi, vol. 7, pp.
+> 275--6]
 
 Indeed, this is precisely the reality. In order to benefit from the Noble Quran,
 sincere seeking (_ṭalab ṣādiq_) is indispensable. Without it, this path cannot be
@@ -78,7 +81,7 @@ accepts the explanations of unreliable individuals, then he will neither
 understand the Quran nor will its hidden treasures be unveiled to him."
 
 Thereafter, al-Ḥāfiẓ al-Suyūṭī \hon{\M_HIM}{\BODY} supports this statement with
-the following verse:
+the following _āyah_:
 
 \AYAH_AR_START
 سَأَصۡرِفُ عَنۡ ءَايَٰتِيَ ٱلَّذِينَ يَتَكَبَّرُونَ فِي ٱلۡأَرۡضِ بِغَيۡرِ ٱلۡحَقِّ
@@ -86,14 +89,14 @@ the following verse:
 
 \AYAH_START
 I shall turn away from My signs those who behave arrogantly in the land without
-right. (Sūrah al-Aʿrāf, Q7:146)
+right. (Sūrat al-Aʿrāf, Q7:146)
 \AYAH_END
 
-While commenting upon this verse, he narrates from Sufyān ibn ʿUyaynah
+While commenting upon this _āyah_, he narrates from Sufyān ibn ʿUyaynah
 \hon{\M_HIM}{\BODY}, "Such people are deprived of understanding the
 Quran."[-@@itqan_suyuti, p. 773]
 
-The following verse likewise points to this very principle:
+The following _āyah_ likewise points to this very principle:
 
 \AYAH_AR_START
 إِنَّ فِي ذَٰلِكَ لَذِكۡرَىٰ لِمَن كَانَ لَهُۥ قَلۡبٌ أَوۡ أَلۡقَى ٱلسَّمۡعَ وَهُوَ شَهِيدٞ ٣٧
@@ -101,11 +104,11 @@ The following verse likewise points to this very principle:
 
 \AYAH_START
 Surely in this is a reminder for whoever has a heart, or listens attentively
-while being fully present. (Sūrah Qāf, Q50:37)
+while being fully present. (Sūrat Qāf, Q50:37)
 \AYAH_END
 
 <!-- TODO review translation -->
-While commenting on this verse, al-Ḥāfiẓ Ibn al-Qayyim \hon{\M_HIM}{\BODY}
+While commenting on this _āyah_, al-Ḥāfiẓ Ibn al-Qayyim \hon{\M_HIM}{\BODY}
 writes,
 
 > For anything to produce its effect, four elements are necessary:
@@ -117,7 +120,7 @@ writes,
 
 He continues,
 
-> All four of these elements are mentioned in this verse with respect to
+> All four of these elements are mentioned in this _āyah_ with respect to
 > benefiting from the Noble Quran.
 
 > Allāh's statement, \ITA{إِنَّ فِي ذَلِكَ لَذِكْرَى} "Surely in this is a
@@ -127,7 +130,7 @@ He continues,
 > refers to a living and awakened heart, for the heart is the place where
 > admonition is received.
 
-The Noble Quran says,
+Allāh says in the Quran,
 
 \AYAH_AR_START
 إِنۡ هُوَ إِلَّا ذِكۡرٞ وَقُرۡءَانٞ مُّبِينٞ ٦٩ لِّيُنذِرَ مَن كَانَ حَيّٗا
@@ -135,7 +138,7 @@ The Noble Quran says,
 
 \AYAH_START
 It is nothing but a reminder and a clear Quran, so that it may warn whoever is
-truly alive. (Sūrah Yā Sīn, Q36:69--70)
+truly alive. (Sūrat Yā Sīn, Q36:69--70)
 \AYAH_END
 
 He further explains,

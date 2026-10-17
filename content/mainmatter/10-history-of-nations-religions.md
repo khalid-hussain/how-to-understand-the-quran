@@ -4,19 +4,19 @@
 It is essential for the student of the Noble Quran to possess a thorough
 knowledge of the nations mentioned in the Quran, the religions and communities
 to whom it is addressed, and the history of the Prophetic era. The deeper this
-study, the more accurately the meanings of the Quranic verses will become
+study, the more accurately the meanings of the Quranic _āyāt_ will become
 manifest.
 
 The reality is that the Noble Quran addressed, in particular, the four misguided
-groups that existed at the time of its revelation: the Mushrikūn (polytheists),
-the Jews, the Christians, and the Munāfiqūn (hypocrites). It subjected their
-beliefs to critical examination and exposed the corruption of their deeds and
-moral conduct.
+groups that existed at the time of its revelation: the polytheists
+(_mushrikūn_), the Jews, the Christians, and the hypocrites (_munāfiqūn_). It
+subjected their beliefs to critical examination and exposed the corruption of
+their deeds and moral conduct.
 
 Consequently, anyone who is unfamiliar with the doctrines of these groups, or
 who lacks an understanding of their moral and political life, cannot properly
 appreciate the significance of the Quran's style of expression, its manner of
-address, or the force of its arguments in the verses concerning them.
+address, or the force of its arguments in the _āyāt_ concerning them.
 
 Similarly, the Noble Quran addresses the Muslims. It provides guidance regarding
 beliefs (_ʿaqāʾid_), acts of worship (_ʿibādāt_), character (_akhlāq_), and
@@ -24,12 +24,12 @@ social dealings (_muʿāmalāt_). It also recounts the military expeditions
 (_ghazawāt_) and other major events of that period.
 
 If a person is unfamiliar with the historical circumstances surrounding the
-revelation of the Quran, he will be unable to place these verses in their proper
+revelation of the Quran, he will be unable to place these _āyāt_ in their proper
 context. Rather, there is every possibility that he may fall into error.
 
 It is for this reason that Imam al-Shāṭibī \hon{\M_HIM}{\BODY} states in
 _al-Muwāfaqāt_, "Knowledge of the circumstances of revelation is essential for
-anyone who wishes to understand the Qurʾān."
+anyone who wishes to understand the Quran."
 
 <!-- OLD TRANSLATION
 "Whoever wishes to understand the Noble Quran must possess
@@ -57,7 +57,7 @@ Accordingly, Imām al-Shāṭibī \hon{\M_HIM}{\BODY} also states that a student
 unfamiliarity with the Arabs' speech and customs, and of the circumstances and
 patterns of their lives at the time of revelation, lead him into such serious
 difficulties that the only way to resolve them is to become familiar with
-them.[@muwafaqat, vol. 4, p. 702]
+them.[-@@muwafaqat, vol. 4, p. 702]
 
 <!--
 ORIGINAL TRANSLATION

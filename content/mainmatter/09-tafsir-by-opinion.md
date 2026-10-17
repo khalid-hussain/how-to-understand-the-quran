@@ -9,7 +9,7 @@ Furthermore, if the meanings of the Noble Quran are explained in accordance with
 the principles of the Arabic language and in conformity with the principles of
 the Sharīʿah, this too constitutes a sound and legitimate method of Tafsīr.
 
-However, if the meanings of the Quranic verses are explained without regard for
+However, if the meanings of the Quranic _āyāt_ are explained without regard for
 the principles of the Sharīʿah or the rules of the Arabic language, such
 interpretation is impermissible. This is what is known as _Tafsīr bi al-Raʾy_.
 
@@ -20,19 +20,23 @@ opinion, let him prepare his seat in the Fire."[-@@abuesa16, vol. 4, p. 56,
 
 Another narration states, "Whoever says anything concerning the Quran without
 knowledge, let him prepare his seat in the Fire." The wording is also reported
-in the collections of Imams Abū Dāwūd, al-Tirmidhī, and others through various
-routes.[-@@abuesa16, vol. 4, p. 56, #3197]
+in the collections of Imam Abū Dāwūd \hon{\M_HIM}{\BODY},[^knowledge_abu_dawud]
+Imam al-Tirmidhī \hon{\M_HIM}{\BODY},[-@@abuesa16, vol. 4, p. 56, #3197] and
+others through various routes.
 
-<!-- TODO check how to refer to a word -->
+[^knowledge_abu_dawud]: This narration does not occur in all editions of _Sunan
+    Abī Dāwūd_. In those where it exists, it comes under the chapter _Awwal
+    Kitāb al-ʿIlm_, in the section _Takrīr al-Ḥadīth_.
+
 Here, _knowledge_ refers to knowledge of the principles of the Arabic language
 and the principles of the Sharīʿah.
 
-Undoubtedly, it is _ḥarām_ (unlawful) for anyone who is ignorant of these two
+Undoubtedly, it is unlawful (_ḥarām_) for anyone who is ignorant of these two
 sciences to undertake the interpretation of the Noble Quran.
 
 Al-Shāṭibī \hon{\M_HIM}{\BODY} states in _al-Muwāfaqāt_, "...opinion (_raʾy_) is
 of two kinds. The first is opinion that accords with the speech of the Arabs and
-conforms to the Qurʾān and Sunnah. Such opinion cannot be disregarded by one who
+conforms to the Quran and Sunnah. Such opinion cannot be disregarded by one who
 is knowledgeable of both...and as for opinion that does not accord with the
 Arabic language, or that accords with the Arabic language but not with the
 revealed proofs, this is, without question, the blameworthy kind of
@@ -52,9 +56,9 @@ erred,"[-@@abuesa16, vol. 4, p. 56, #3199]
 
 > This refers to the person who departs from the established principles of
 > interpretation and merely says whatever occurs to his mind concerning the
-> meaning of the Quran.
+> meanings of the Quran.
 
-> As for the one who explains the meanings of the Quranic verses and understands
+> As for the one who explains the meanings of the Quranic _āyāt_ and understands
 > them according to meanings upon which the scholars are agreed, such a person is
 > praiseworthy, deserving of reward, and included among those concerning whom
 > Allāh says,
@@ -65,5 +69,5 @@ erred,"[-@@abuesa16, vol. 4, p. 56, #3199]
 
 \LIST_AYAH_START
 ...those among them who are able to derive correct conclusions would have known
-it. (Sūrah al-Nisāʾ, Q4:83)[-@@ahkamQuran_jassas, vol. 4, p. 513]
+it. (Sūrat al-Nisāʾ, Q4:83)[-@@ahkamQuran_jassas, vol. 4, p. 513]
 \LIST_AYAH_END

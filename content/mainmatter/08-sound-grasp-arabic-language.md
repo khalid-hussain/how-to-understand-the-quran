@@ -22,7 +22,7 @@ principal approaches.
 
 Some sought to cover every Quranic word. Their works are generally known as
 _Mufradāt al-Qurʾān_, the most famous example being _Mufradāt Alfāẓ al-Qurʾān_ by
-Imām al-Rāghib al-Iṣfahānī \hon{\M_HIM}{\BODY}.
+Imam al-Rāghib al-Iṣfahānī \hon{\M_HIM}{\BODY}.
 
 Others confined themselves to explaining only the difficult expressions of the
 Quran, calling this discipline _Gharīb al-Qurʾān_.
@@ -54,14 +54,14 @@ treatise _Maʿtarak al-Aqrān fī Mushtarak al-Qurʾān_.
 Arabic expresses the grammatical relationships between words through _iʿrāb_,
 namely the inflectional vowel endings.
 
-Through _iʿrāb_, one distinguishes the subject (_fāʿil_), object (_mafʿūl_),
+Through _iʿrāb_, one distinguishes the subject (_fāʿil_), object (_mafʿūl bihi_),
 possessive construction (_muḍāf_ and _muḍāf ilayh_), circumstantial qualifier
 (_ḥāl_), specification (_tamyīz_), and many other grammatical functions.
 
 It is therefore evident how essential knowledge of _iʿrāb_ is for understanding
 meaning.
 
-The scholars of Islam recognised this need and produced numerous works devoted
+The scholars of Islam recognized this need and produced numerous works devoted
 exclusively to the grammatical analysis of the Noble Quran, examining each
 _sūrah_ _āyah_ by _āyah_.
 
@@ -91,15 +91,15 @@ A single example illustrates how subtle these matters can be. Allāh says,
 \AYAH_AR_END
 
 \AYAH_START
-And remember when We parted the sea for you. (Sūrah al-Baqarah, Q2:50)
+And remember when We parted the sea for you. (Sūrat al-Baqarah, Q2:50)
 \AYAH_END
 
-At first glance, one might object that the verse addresses the Jews living
+At first glance, one might object that the _āyah_ addresses the Jews living
 during the Prophet's \hon{\PBUH}{\BODY} lifetime, although the event occurred to
 their forefathers.
 
 Various explanations have been offered. Al-Ālūsī \hon{\M_HIM}{\BODY}, however,
-points out in _Rūḥ al-Maʿānī_ that had the verse said \ITA{لَكُم}, it would have
+points out in _Rūḥ al-Maʿānī_ that had the _āyah_ said \ITA{لَكُم}, it would have
 referred directly to the contemporaneous Jews. Instead, the use of the
 preposition \ITA{ب} in \ITA{بِكُم} carries the sense that the sea was parted on
 behalf of their forefathers. Thus, the subtle choice of a single particle
@@ -116,9 +116,9 @@ familiarity with them is indispensable for the exegete.
 
 Muslim scholars therefore authored independent works entitled _Majāz al-Qurʾān_.
 
-Among the finest is _al-Ishārah ilā al-Ījāz fī Baʿḍ Anwāʿ al-Majāz_ by Sulṭān
-al-ʿUlamāʾ al-ʿIzz ibn ʿAbd al-Salām \hon{\M_HIM}{\BODY} (d.660 AH), in which
-the Quranic verses are examined comprehensively and their figurative meanings
+Among the finest is _al-Ishārah ilá al-Ījāz fī Baʿḍ Anwāʿ al-Majāz_ by Sulṭān
+al-ʿUlamāʾ al-ʿIzz ibn ʿAbd al-Salām \hon{\M_HIM}{\BODY} (d.660\SC{h}), in which
+the Quranic _āyāt_ are examined comprehensively and their figurative meanings
 carefully explained.
 
 ## Simile in the Quran
@@ -132,7 +132,7 @@ meaning through comparison.
 The Noble Quran employs numerous such similes.
 
 Comprehensive discussions of these occur in the classical works on rhetoric,
-_Maʿānī al-Quran_, the miraculous nature of the Quran, and _Majāz al-Quran_.
+_Maʿānī al-Quran_, the miraculous nature of the Quran, and _Majāz al-Qurʾān_.
 Their study is indispensable for every student of the Quran.
 
 ## The Significance of Morphological Patterns
@@ -181,17 +181,17 @@ Similarly, Allāh says,
 
 \AYAH_START
 Indeed, Allāh loves those who constantly repent and those who continually purify
-themselves. (Sūrah al-Baqarah, Q2:222)
+themselves. (Sūrat al-Baqarah, Q2:222)
 \AYAH_END
 
 The emphasis conveyed by _al-tawwābīn_ and _al-mutaṭahhirīn_ would not have been
-achieved had the verse simply said _al-tāʾibīn_ and _al-ṭāhirīn_.
+achieved had the _āyah_ simply said _al-tāʾibīn_ and _al-ṭāhirīn_.
 
 _Tawwāb_ denotes one who repeatedly returns in repentance, whereas _tāʾib_
 merely signifies one who repents.[-@@tiraz, vol. 2, p. 87]
 
 ::: {custom-style="Example Heading"}
-The words \ITA{اسطاعوا} (_isṭāʿū_) and \ITA{استطاعوا} (_istaṭāʿū_)
+The words \ITA{اسْطَاعُواْ} (_isṭāʿū_) and \ITA{اسْتَطَاعُواْ} (_istaṭāʿū_)
 :::
 
 Allāh says,
@@ -201,19 +201,20 @@ Allāh says,
 \AYAH_AR_END
 
 \AYAH_START
-So they could neither scale it nor pierce it. (Sūrah al-Kahf, Q18:97)
+So they could neither scale it nor pierce it. (Sūrat al-Kahf, Q18:97)
 \AYAH_END
 
-The variation between \ITA{اسطاعوا} (_isṭāʿū_) and \ITA{استطاعوا} (_istaṭāʿū_) is meaningful.
+The variation between \ITA{اسْطَاعُواْ} (_isṭāʿū_) and \ITA{اسْتَطَاعُواْ}
+(_istaṭāʿū_) is meaningful.
 
 The additional letter \ITA{ت} conveys greater effort and intensity.
-Consequently, the lighter form \ITA{اسطاعوا} is used for the comparatively
-easier act of climbing the barrier, whereas the heavier form \ITA{استطاعوا} is
-employed for the far more difficult task of piercing through
+Consequently, the lighter form \ITA{اسْطَاعُواْ} is used for the comparatively
+easier act of climbing the barrier, whereas the heavier form \ITA{اسْتَطَاعُواْ}
+is employed for the far more difficult task of piercing through
 it.[-@@taj_mukallal, p. 191]
 
 ::: {custom-style="Example Heading"}
-The word \ITA{تَخْتَانُون} (_takhtānūn_)
+The word \ITA{تَخْتَانُونَ} (_takhtānūn_)
 :::
 
 Allāh says,
@@ -224,12 +225,12 @@ Allāh says,
 
 \AYAH_START
 Allāh knew that you had been betraying yourselves, so He turned to you in mercy
-and pardoned you. (Sūrah al-Baqarah, Q2:187)
+and pardoned you. (Sūrat al-Baqarah, Q2:187)
 \AYAH_END
 
-The occurrence of \ITA{تختانون} in Form VIII (_iftiʿāl_) is highly significant.
+The occurrence of \ITA{تَخْتَانُونَ} (_takhtānūn_) in Form VIII (_iftiʿāl_) is highly significant.
 
-Some deviant groups exploited this verse to cast aspersions upon the Ṣaḥābah
+Some deviant groups exploited this _āyah_ to cast aspersions upon the Ṣaḥābah
 \hon{\P_THM}{\BODY}.
 
 However, the Arabic lexicons show that _ikhtiyān_ denotes the inclination or
@@ -244,18 +245,18 @@ Allāh says,
 \AYAH_AR_END
 
 \AYAH_START
-Surely the human soul persistently inclines towards evil. (Sūrah Yūsuf, Q12:53)
+Surely the human soul persistently inclines towards evil. (Sūrat Yūsuf, Q12:53)
 \AYAH_END
 
 Thus, intending an action is one thing, while actually committing it is another.
 
-The verse refers only to the former, not the latter. Consequently, it
+The _āyah_ refers only to the former, not the latter. Consequently, it
 constitutes one of the virtues of the Ṣaḥābah \hon{\P_THM}{\BODY}, for despite
 the natural inclination, they refrained from committing the prohibited
 act.[-@@mufradat_raghib, vol. 1, p. 217]
 
 ::: {custom-style="Example Heading"}
-The words \ITA{كَسَبَتْ} and \ITA{اكْتَسَبَتْ}
+The words \ITA{كَسَبَتْ} (_kasabat_) and \ITA{اكْتَسَبَتْ} (_iktasabat_)
 :::
 
 Allāh says,
@@ -266,18 +267,18 @@ Allāh says,
 
 \AYAH_START
 It will be rewarded for whatever good it earns, and held accountable for
-whatever evil it deliberately commits. (Sūrah al-Baqarah, Q2:286)
+whatever evil it deliberately commits. (Sūrat al-Baqarah, Q2:286)
 \AYAH_END
 
 A profound distinction is conveyed here by the addition of only a single letter.
-The verb \ITA{اكتسبت}, being from Form VIII (_iftiʿāl_), carries the implication
-of deliberate intention and conscious effort.
+The verb \ITA{اكْتَسَبَتْ} (_iktasabat_), being from Form VIII (_iftiʿāl_),
+carries the implication of deliberate intention and conscious effort.
 Accordingly, good deeds earn reward whenever they are performed, whereas
-punishment for sin is attached only to that which is committed intentionally.
-[-@@tiraz, vol. 2, p. 87]
+punishment for sin is attached only to that which is committed
+intentionally.[-@@tiraz, vol. 2, p. 87]
 
 ::: {custom-style="Example Heading"}
-The word \ITA{حصور} (_ḥaṣūr_)
+The word \ITA{حَصُورٌ} (_ḥaṣūr_)
 :::
 
 Regarding Prophet Yaḥyá \hon{\S_HIM}{\BODY}, Allāh says,
@@ -287,13 +288,13 @@ Regarding Prophet Yaḥyá \hon{\S_HIM}{\BODY}, Allāh says,
 \AYAH_AR_END
 
 \AYAH_START
-...[will be] a great leader, chaste, and a prophet among the righteous. (Sūrah
+...[will be] a great leader, chaste, and a prophet among the righteous. (Sūrat
 Āl ʿImrān, Q3:39)
 \AYAH_END
 
 The root _ḥaṣr_ means restraint or prevention.
 
-However, _ḥaṣūr_ is an intensive form.
+However, \ITA{حَصُورٌ} (_ḥaṣūr_) is an intensive form.
 
 <!-- TODO ref Khafaji Tiraaz book -->
 Al-Khafājī \hon{\M_HIM}{\BODY} explains, "Since _ḥaṣūr_ is an intensive form,
@@ -306,7 +307,7 @@ Thus, Prophet Yaḥyá \hon{\S_HIM}{\BODY} was not compelled to remain celibate.
 Rather, it was a conscious act of voluntary self-restraint.
 
 ::: {custom-style="Example Heading"}
-The word \ITA{تنزل} (_tanazzalu_)
+The word \ITA{تَنَزَّلُ} (_tanazzalu_)
 :::
 
 Allāh says,
@@ -316,11 +317,11 @@ Allāh says,
 \AYAH_AR_END
 
 \AYAH_START
-The angels and the Spirit descend therein. (Sūrah al-Qadr, Q97:4)
+The angels and the Spirit descend therein. (Sūrat al-Qadr, Q97:4)
 \AYAH_END
 
-The verb _tanazzalu_ belongs to Form V (_tafaʿʿul_), whose characteristic is
-gradual occurrence.
+The verb \ITA{تَنَزَّلُ} _tanazzalu_ belongs to Form V (_tafaʿʿul_), whose
+characteristic is gradual occurrence.
 
 The author of _al-Futūḥāt al-Ilāhīyah_ observes that this indicates the angels
 do not descend all at once. Rather, they continue descending in successive
@@ -328,7 +329,7 @@ groups throughout the night, just as pilgrims arrive at the Kaʿbah one group
 after another.[-@@futuhatilahiyah, vol. 8, p. 370]
 
 ::: {custom-style="Example Heading"}
-[المعذرون]{dir="rtl"}
+The word \ITA{المُعَذِّرُونَ} (_al-muʿadhdhirūn_)
 :::
 
 Allāh says concerning the hypocrites,
@@ -338,19 +339,19 @@ Allāh says concerning the hypocrites,
 \AYAH_AR_END
 
 \AYAH_START
-Some nomadic Arabs (also) came with excuses. (Sūrah al-Tawbah, Q9:90)
+Some nomadic Arabs (also) came with excuses. (Sūrat al-Tawbah, Q9:90)
 \AYAH_END
 
-The Quran deliberately says \ITA{المعذرون}, not \ITA{المعتذرون}. The difference
+The Quran deliberately says \ITA{المُعَذِّرُونَ}, not \ITA{المعتذرون}. The difference
 is significant.
 
 _Muʿadhdhir_ refers to one who presents an excuse despite not truly possessing
 one, whereas _muʿtadhir_ may refer to one who has either a genuine or an invalid
-excuse. By choosing \ITA{المعذرون}, the Quran indicates that the hypocrites were
+excuse. By choosing \ITA{المُعَذِّرُونَ}, the Quran indicates that the hypocrites were
 not genuinely excused.[-@@futuhatilahiyah, vol. 3, p. 295]
 
 ::: {custom-style="Example Heading"}
-[يطيقونه]{dir="rtl"}
+The word \ITA{يُطِيقُونَهُ}
 :::
 
 Allāh says,
@@ -361,16 +362,17 @@ Allāh says,
 
 \AYAH_START
 For those who can only fast with extreme difficulty, compensation can be made by
-feeding a needy person (for every day not fasted). (Sūrah al-Baqarah, Q2:184)
+feeding a needy person (for every day not fasted). (Sūrat al-Baqarah, Q2:184)
 \AYAH_END
 
-The exegetical discussions surrounding this verse are well known.
+The exegetical discussions surrounding this _āyah_ are well known.
 
-However, if one reflects upon the occurrence of \ITA{يطيقونه} in Form IV
+However, if one reflects upon the occurrence of \ITA{يُطِيقُونَهُ} in Form IV
 (_ifʿāl_), the matter becomes considerably easier.
 
-One recognised function of this form is privation (_salb_), from which some
-scholars understood \ITA{يطيقونه} in the sense of \ITA{لا يطيقونه}.
+One recognized function of this form is privation (_salb_), from which some
+scholars understood \ITA{يُطِيقُونَهُ} (_yuṭīqūnah_) in the sense of \ITA{لَا
+يُطِيقُونَهُ} (_lā yuṭīqūnah_).
 
 Accordingly, the _āyah_ would mean: Those who are unable to fast should instead
 offer a ransom by feeding a poor person.

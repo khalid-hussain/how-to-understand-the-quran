@@ -7,7 +7,7 @@ with the Quran itself, then the Sunnah, and thereafter the statements of the
 
 Since the Quran was revealed in the Arabic language, there is, undoubtedly, no
 alternative to consulting the Arabic language in explaining its vocabulary. Yet,
-while recognising the indispensable importance of Arabic linguistics, one must
+while recognizing the indispensable importance of Arabic linguistics, one must
 also bear in mind that the Quran possesses its own distinctive terminology.
 These Quranic expressions can only be properly understood through the Quran and
 the Sunnah themselves.
@@ -15,21 +15,20 @@ the Sunnah themselves.
 For example, the expression _al-Ṣirāṭ al-Mustaqīm_. Lexically, it means, "the
 straight path." However, what does the Quran itself intend by this expression?
 
-In Sūrat al-Fātiḥah, the Quran itself explains it:
+In _Sūrat al-Fātiḥah_, the Quran itself explains it:
 
 \AYAH_AR_START
 صِرَٰطَ ٱلَّذِينَ أَنۡعَمۡتَ عَلَيۡهِمۡ
 \AYAH_AR_END
 
 \AYAH_START
-The path of those upon whom You have bestowed Your favour. (Sūrah al-Fātiḥah,
+The path of those upon whom You have bestowed Your favour. (Sūrat al-Fātiḥah,
 Q1:7)
 \AYAH_END
 
-Who are those upon whom Allāh has bestowed His favour? This too is explained
+Who are those upon whom Allāh has bestowed His favor? This too is explained
 elsewhere in the Quran:
 
-<!-- TODO The translation "What excellent companions they are!" was not in the original Arabic but part of the ayah and the translation and so I added it. -->
 \AYAH_AR_START
 وَمَن يُطِعِ ٱللَّهَ وَٱلرَّسُولَ فَأُوْلَٰٓئِكَ مَعَ ٱلَّذِينَ أَنۡعَمَ ٱللَّهُ عَلَيۡهِم مِّنَ ٱلنَّبِيِّـۧنَ وَٱلصِّدِّيقِينَ وَٱلشُّهَدَآءِ وَٱلصَّٰلِحِينَۚ وَحَسُنَ أُوْلَٰٓئِكَ رَفِيقٗا ٦٩
 \AYAH_AR_END
@@ -37,13 +36,13 @@ elsewhere in the Quran:
 \AYAH_START
 Whoever obeys Allāh and the Messenger will be among those whom Allāh has
 blessed: the Prophets, the steadfast affirmers of truth, the martyrs, and the
-righteous. What excellent companions they are! (Sūrah al-Nisāʾ, Q4:69)
+righteous. What excellent companions they are! (Sūrat al-Nisāʾ, Q4:69)
 \AYAH_END
 
 It thus becomes clear that _al-Ṣirāṭ al-Mustaqīm_ refers to the path of the
-Prophets \hon{\S_THM}{\BODY}, the Ṣiddīqūn, the martyrs, and the righteous.
+Prophets \hon{\S_THM}{\BODY}, the truthful, the martyrs, and the righteous.
 
-Similarly, towards the end of Sūrah Āl ʿImrān, Allāh states that within the
+Similarly, towards the end of _Sūrat Āl ʿImrān_, Allāh states that within the
 creation of the heavens and the earth, and the alternation of night and day, are
 signs for those of understanding. Here, the Quran uses the expression _Ulū
 al-Albāb_.
@@ -58,12 +57,12 @@ Zakāh, Ṣawm, and Ḥajj.
 
 Lexically:
 
-- Ṣalāh means supplication.
-- Zakāh means growth or purification.
-- Ṣawm means abstention.
+- Ṣalāh means supplication;
+- Zakāh means growth or purification;
+- Ṣawm means abstention; and
 - Ḥajj means intention or purposeful journey.
 
-Clearly, however, these lexical meanings are not what is intended in these
+Clearly, however, these lexical meanings are not the meanings intended in these
 contexts. Each of these words carries a specific technical meaning, and it is
 the Sunnah that defines those meanings.
 
@@ -72,7 +71,7 @@ the lexical meanings of the words, the entire structure of Islamic worship would
 cease to exist.
 
 It is for this reason that al-Ḥāfiẓ Ibn al-Qayyim \hon{\M_HIM}{\BODY} said,
-"...the Quran has its own distinct linguistic convention (ʿurf khāṣ) and
+"...the Quran has its own distinct linguistic convention (_ʿurf khāṣ_) and
 established meanings. It is not appropriate to interpret it according to
 meanings other than these, nor is it permissible to interpret it outside the
 framework of that convention."[-@@tafsir_ibnqayyim, p. 269]
@@ -112,7 +111,7 @@ Similarly, al-ʿAllāmah al-Qurṭubī \hon{\M_HIM}{\BODY} writes,
 > advancing and delaying of expressions. Whoever has not mastered the apparent
 > meaning of Tafsīr and hastens to derive meanings merely from an understanding of
 > Arabic will frequently err and will enter the ranks of those who interpret the
-> Quran according to personal opinion.[@tafsir_qurtubi, vol. 1, p. 59]
+> Quran according to personal opinion.[-@@tafsir_qurtubi, vol. 1, p. 59]
 
 <!-- OLD TRANSLATION
 Whoever interprets the Quran solely on the basis of the Arabic language,
@@ -131,6 +130,7 @@ Otherwise, the consequences can be exceedingly dangerous.
 At this point, the following guidance of Shaykh Anwar Shāh Kashmīrī
 \hon{\M_HIM}{\BODY} deserves the closest attention,
 
+<!-- OLD TRANSLATION
 > In its choice of vocabulary, the Noble Quran always selects the word that is
 > both the most accurate in conveying the intended reality and the most
 > appropriate to the context. For example, according to the beliefs of the
@@ -142,8 +142,29 @@ At this point, the following guidance of Shaykh Anwar Shāh Kashmīrī
 > employed this word to describe death, thereby demonstrating that death is a
 > reception and transfer, not utter annihilation. Through a single word, the
 > Quran unveiled this profound reality. Elsewhere, the same word is employed in
-> its original sense of taking or receiving completely.[-@@tafsir_lahori, vol.
-> 1, p. 122]
+> its original sense of taking or receiving completely. -->
+
+> The miraculous nature of the Noble and Wise Quran lies in every aspect of its
+> vocabulary, its composition, and its arrangement, as well as its objectives
+> and underlying realities.
+
+> As for its vocabulary, the Noble Quran selects words in such a way that no one
+> possessing true insight or a proper understanding of the context can raise a
+> valid objection to their use.
+
+> For example, according to the beliefs of the people of the pre-Islamic era of
+> ignorance (Jāhilīyah), it was not correct to apply the term _tawaffī_ to
+> death. This was because, in their understanding, death meant neither the
+> taking of the body nor the taking of the soul. The term _tawaffī_ denotes
+> taking something in full and receiving it completely. Therefore, according to
+> their belief, death could not be described as _tawaffī_.
+
+> The Noble Quran, however, applied the word _tawaffī_ to death, thereby
+> demonstrating that death entails something being received and taken, rather
+> than being mere annihilation. This profound reality was unveiled through a
+> single word. Elsewhere, the Quran employs this word in its original sense,
+> referring to the taking of the soul in its entirety.[-@@tafsir_lahori, vol. 1,
+> p. 122]
 
 <!-- ChatGPT'd translation
 In its choice of individual words, the Noble Qurʾān selects the precise term

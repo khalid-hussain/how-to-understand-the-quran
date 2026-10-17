@@ -24,19 +24,19 @@ success in the Hereafter.
 
 It is for this reason that wherever these matters are discussed in the Quran,
 one invariably finds, at the beginning, middle, or conclusion of the passage,
-verses of encouragement or warning, references to Paradise and Hellfire, or
+_āyāt_ of encouragement or warning, references to Paradise and Hellfire, or
 mention of Divine punishment. Likewise, one or more of Allāh's Most Beautiful
 Names are mentioned in accordance with the context, so that the reader
-continually realises that obedience to these commands leads to eternal bliss,
+continually realizes that obedience to these commands leads to eternal bliss,
 while disobedience results in everlasting disgrace in the Hereafter.
 
 Imam al-Shāṭibī \hon{\M_HIM}{\BODY} makes a profound observation in
-_al-Muwāfaqāt_,
+_al-Muwāfaqāt_:
 
 > The fundamental sciences of the Noble Quran are only three:
 
-> 1. Knowledge of Allāh Most High.
-> 2. The means by which His pleasure is attained.
+> 1. Knowledge of Allāh Most High;
+> 2. The means by which His pleasure is attained; and
 > 3. The ultimate destiny of mankind.
 
 > The first category, knowledge of Allāh, includes knowledge of His Names,
@@ -49,7 +49,7 @@ _al-Muwāfaqāt_,
 
 > The third category includes death and its circumstances, the Day of Resurrection
 > and all that it encompasses, the conditions of Paradise and Hellfire, as well as
-> the verses of glad tidings and warning, and those passages describing the
+> the _āyāt_ of glad tidings and warning, and those passages describing the
 > salvation of the righteous and the evil end of the wicked.
 
 The point is that the principal subject of the Noble Quran is to guide mankind
@@ -58,7 +58,7 @@ successful and the pleasure of Allāh becomes their ultimate attainment.
 
 The Noble Quran has introduced itself to mankind with precisely this message,
 repeatedly drawing attention to this very objective. Consider the following
-verses:
+_āyāt_:
 
 \AYAH_AR_START
 ذَٰلِكَ ٱلۡكِتَٰبُ لَا رَيۡبَۛ فِيهِۛ هُدٗى لِّلۡمُتَّقِينَ ٢
@@ -66,7 +66,7 @@ verses:
 
 \AYAH_START
 This is the Book about which there is no doubt, a guidance for those who are
-mindful of Allāh. (Sūrah al-Baqarah, Q2:2)
+mindful of Allāh. (Sūrat al-Baqarah, Q2:2)
 \AYAH_END
 
 
@@ -75,7 +75,7 @@ mindful of Allāh. (Sūrah al-Baqarah, Q2:2)
 \AYAH_AR_END
 
 \AYAH_START
-Indeed, this Quran guides to that which is most upright. (Sūrah al-Isrāʾ, Q17:9)
+Indeed, this Quran guides to that which is most upright. (Sūrat al-Isrāʾ, Q17:9)
 \AYAH_END
 
 
@@ -85,7 +85,7 @@ Indeed, this Quran guides to that which is most upright. (Sūrah al-Isrāʾ, Q17
 
 \AYAH_START
 We send down in the Quran that which is a healing and a mercy for the
-believers. (Sūrah al-Isrāʾ, Q17:82)
+believers. (Sūrat al-Isrāʾ, Q17:82)
 \AYAH_END
 
 
@@ -94,7 +94,7 @@ believers. (Sūrah al-Isrāʾ, Q17:82)
 \AYAH_AR_END
 
 \AYAH_START
-Say, "It is, for those who believe, a guidance and a healing." (Sūrah
+Say, "It is, for those who believe, a guidance and a healing." (Sūrat
 Fuṣṣilat, Q41:44)
 \AYAH_END
 
@@ -106,17 +106,17 @@ Fuṣṣilat, Q41:44)
 \AYAH_START
 O mankind! There has certainly come to you an admonition from your Lord, a
 healing for what is in the hearts, and guidance and mercy for the believers.
-(Sūrah Yūnus, Q10:57)
+(Sūrat Yūnus, Q10:57)
 \AYAH_END
 
-
+<!-- TODO ref Ibn Taymiyyah Shah Wali Allah: i3jaz -->
 In summary, the commands, teachings, exhortations, and guidance of the Noble
 Quran constitute its distinctive characteristics and the very essence of its
 message. It is for this reason that a number of leading scholars, among them
 Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} and Imam Shāh Walī Allāh
 al-Dihlawī \hon{\M_HIM}{\BODY}, regarded this as the primary aspect of the
 Quran's miraculous nature (_iʿjāz_). Accordingly, anyone seeking to benefit from
-the Noble Quran should reflect upon its verses from this perspective.
+the Noble Quran should reflect upon its _āyāt_ from this perspective.
 
 Imam Shāh Walī Allāh \hon{\M_HIM}{\BODY} states explicitly in _al-Fawz
 al-Kabīr_, "The established reality is that the primary purpose behind the
