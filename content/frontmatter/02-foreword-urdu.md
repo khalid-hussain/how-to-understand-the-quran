@@ -53,7 +53,8 @@ grace of Allāh, his insight into its subjects is remarkably profound.
 \AYAH_AR_END
 
 \AYAH_START
-That is the Bounty of Allāh. He Grants it to whom He Wills.
+That is the Bounty of Allāh. He Grants it to whom He Wills. (Sūrat al-Jumuʿah,
+Q62:4)
 \AYAH_END
 
 He is also the compiler of _Tafsīr Ibn al-Qayyim_, a work that he assembled
