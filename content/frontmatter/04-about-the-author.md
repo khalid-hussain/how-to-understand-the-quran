@@ -180,14 +180,14 @@ Quran's authentic message, warned against innovations, and addressed
 intellectual doubts, sparking the emergence of multiple Quranic study circles
 across the city.
 
-Shaykh ʿAbd al-Mājid Daryābādī \hon{\M_HIM}{\BODY} wrote in his preface to _How
-to Study the Quran_, "Shaykh Owais is not merely a teacher of Tafsīr at Dār
-al-ʿUlūm Nadwat al-ʿUlamāʾ with many years of experience in teaching the Quran;
-rather, in terms of taste and intuition, he is truly---in the real sense---a
-scholar and student of Quranic studies. His reading in this field is extensive,
-and his insight, by the grace of Allāh, is remarkably deep. In every respect, he
-has devoted himself to the service of the Quran. That is the bounty of Allāh;
-He grants it to whom He wills."
+Shaykh ʿAbd al-Mājid Daryābādī \hon{\M_HIM}{\BODY} wrote in his preface to
+_Qurʾān kā Muṭālaʿah Kaise?_, "Shaykh Owais is not merely a teacher of Tafsīr at
+Dār al-ʿUlūm Nadwat al-ʿUlamāʾ with many years of experience in teaching the
+Quran; rather, in terms of taste and intuition, he is truly---in the real
+sense---a scholar and student of Quranic studies. His reading in this field is
+extensive, and his insight, by the grace of Allāh, is remarkably deep. In every
+respect, he has devoted himself to the service of the Quran. That is the bounty
+of Allāh; He grants it to whom He wills."
 
 His writings, spanning Arabic, Urdu, and Persian, can be found in some of the
 most prestigious libraries and universities around the world. Some of his
