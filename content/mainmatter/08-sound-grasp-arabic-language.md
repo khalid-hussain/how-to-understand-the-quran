@@ -342,8 +342,8 @@ Allāh says concerning the hypocrites,
 Some nomadic Arabs (also) came with excuses. (Sūrat al-Tawbah, Q9:90)
 \AYAH_END
 
-The Quran deliberately says \ITA{المُعَذِّرُونَ}, not \ITA{المعتذرون}. The difference
-is significant.
+The Quran deliberately says \ITA{المُعَذِّرُونَ} (_al-muʿadhdhirūn_), not
+\ITA{المُعْتَذِرُونَ} (_al-muʿtadhirūn_). The difference is significant.
 
 _Muʿadhdhir_ refers to one who presents an excuse despite not truly possessing
 one, whereas _muʿtadhir_ may refer to one who has either a genuine or an invalid
